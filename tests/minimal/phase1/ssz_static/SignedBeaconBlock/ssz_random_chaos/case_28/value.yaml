@@ -1,0 +1,293 @@
+message:
+  slot: 8663021656206659451
+  proposer_index: 6766933270738179900
+  parent_root: '0x816fc9ea9ac7d7f9f2422c0052e2688bb40cbc4fc0138c159cd08328f96d685a'
+  state_root: '0xc442603dd96680e1113e9a6a714f6089131f9bc517dbeb44638e2da07feaee8b'
+  body:
+    randao_reveal: '0x6b18786ebb6197219341e89420082e3f2c1a6fa34934d6726bc7eb9b072622c29ae8499695d3161cf608610712758175716dcb6624a4b74e90c8ed3cb8edcc71904e0b2b22e1b145f45d44b6ebec522cfc52816cb6fa5cbe37a1bf9c29e5cca5'
+    eth1_data: {deposit_root: '0x7d7efd8c176e3807312a7902b570803586a68c6e30b04dc88fa1a6a343c22671',
+      deposit_count: 16357075300756921387, block_hash: '0x7f13cb93f13522432a01d662574e9e15e6c051e83af3eddfff3cabd730ebe4f9'}
+    graffiti: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    proposer_slashings:
+    - signed_header_1:
+        message: {slot: 2266114343745028389, proposer_index: 18446744073709551615,
+          parent_root: '0xd18e5d38cf29f6744cecc6d856b1bd30a7d32a8239b1725825aaa548acc698e9',
+          state_root: '0x0000000000000000000000000000000000000000000000000000000000000000',
+          body_root: '0x093fc66ac971c1cf11f3f5671de168fc01f608d7b96a7e97f71d4d4ecae34d1c'}
+        signature: '0x56de32f1dcc8b5f8247bfcf694dd0345266659e5e84db7fb98ccb96df40f13ad83aa3cd77846153179f282158738b753613e988c337dc7f3978a4952aaa1a62e08e995201f9585071e574fc0d1bd7247dbebbde362e6f2273d92329be60a969a'
+      signed_header_2:
+        message: {slot: 15406676880147572393, proposer_index: 84686464280635432, parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+          state_root: '0x9971d5cffaf07ce7346853ec8410b9a2dfbdc829d9270e19e582e3b7dc0cc6c7',
+          body_root: '0x6ecf3ee611cf5f73b3199612074df1be4e946d9e3776d9d0270b63540f902255'}
+        signature: '0x391ba661822b3f211520ffdccf04ed319f9ac3f76f6b515b2903c580026b7e5aaddd987ca1753acf3e98a5258fdc33d34eb78c82059b9287601feb05110ba3c9da94d898bb2e63420921fb26399fc5b06f4f34a5efaedd7eccede57ffc94c819'
+    - signed_header_1:
+        message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+          state_root: '0x143a04960895a00dad546db24e472e45add3734a0b15659b5732bad950b7a315',
+          body_root: '0x55492e59a6206471a78e0be9046818d844d53fb86839e145233549c5a61b2c50'}
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signed_header_2:
+        message: {slot: 9350998826813444262, proposer_index: 16550128854902234040,
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+          state_root: '0x4f77b6782ccce19f66aee6b23d68c17c74d84d56362b2d33c3ca43262322f814',
+          body_root: '0x0f5bbe3442c5bc85f135924d5c27f9b81ef7e5ef45b9b913c2f69d7010a326b2'}
+        signature: '0x49b66a9cc4bea936a26ca16a30971c6200dc7382bb0823e0b309520f77736fd744c561da6fbe72b5db027e142ea3ed3cb208ff9778d25109e51eff950efe792bd934bc9e2867f7be549d4de0d38032f643ba311cccd863e5ed94ac70fe273808'
+    - signed_header_1:
+        message: {slot: 13696845724803429436, proposer_index: 4949408386868617077,
+          parent_root: '0x0000000000000000000000000000000000000000000000000000000000000000',
+          state_root: '0x1c212395e7b6a811a6ad5eda35bf01bb32375171799b3c8dbac7b11b1fbcd7cb',
+          body_root: '0xb33e800ee089bcb1793aea43116762512d50132f64b70e2c4b349d0a0671232b'}
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signed_header_2:
+        message: {slot: 15189133705830642605, proposer_index: 8283670761313136750,
+          parent_root: '0xd2864782ae978afc64d1dd26c7430a9504b19aab4f8aec5dd44cf3d6ad3c998e',
+          state_root: '0xf5f70885027af7719ef3f7dd38e4038ae9fe8db4d701d668e77f1c3f4ac51a09',
+          body_root: '0x1164f3033448bc0e482f324f4bc5e79d6eeca52987d23cd96d7b77834564873b'}
+        signature: '0x5ddabec56796b0e59f335facc29264be0e43010e0c8a18c6ce94af6642abc0ca8e87d1e799253415ffc546d412cd5f6efc99c2a66c10e00cbeb99528ec5ea35fd4837aa1c3e907d5334bba085bebadf786681c783922bd0dc3492cf5b1f89b33'
+    - signed_header_1:
+        message: {slot: 0, proposer_index: 7705474855162616588, parent_root: '0xec7cc5515b11493b363774d31c038d88424ce0def378fe675157d60d6f24ceb0',
+          state_root: '0x2762fe30f7416736f443d45c04b8130e6a739a7d328a462566aee6cc36351e80',
+          body_root: '0x8d56c7cac97e07bddbf9012ce05eddfc977be02ee8a5ffa54866a0b08c71b921'}
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signed_header_2:
+        message: {slot: 2955214390289254434, proposer_index: 2043035892914096653,
+          parent_root: '0x6c1a18e2b9c7a959fa12d2247517fdd1c05d332aca1a187322a4b0dcd6346b8a',
+          state_root: '0xfc66e2f9c2493f4325ebc6e2a22b1d4d39b9ac79c3d1ce5beb27aa5889a8d606',
+          body_root: '0xc29ac9902eb3474eb442597467edb5925c5ba72bc91c48982854c3b58bcc6476'}
+        signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    - signed_header_1:
+        message: {slot: 18446744073709551615, proposer_index: 8126676895115674430,
+          parent_root: '0xddaa601355a6741df89224f70ee17696ea9f340640e89c697fc8a3ba51aa59e0',
+          state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+          body_root: '0x0601723a7fdbc3ff9a3a290db09eb03ee3cedec5f7bed302ed3037a0ec3b0793'}
+        signature: '0xa9d7d03dcfba9ad9ad2800c776e87d00ff23777fcd5fd668586e02d38b564ac753a3a23504ba3b24c656e7513e04279e44ddcb1bbba5efa7c31c64c95165555703c06717f593ea85e3b70e1142ac7b7ebb7ef36361720363f0903764aa17868d'
+      signed_header_2:
+        message: {slot: 8781499696358122843, proposer_index: 18446744073709551615,
+          parent_root: '0x338bc87f594f0acc141cd06bdd6bfe39af51bd0e0172a59e46e011b166a157e5',
+          state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+          body_root: '0x087bec31470f2930ec55ad7f4342ed22642a3d27f3925f9ded4884ff7390a505'}
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - signed_header_1:
+        message: {slot: 18446744073709551615, proposer_index: 8427553853428729435,
+          parent_root: '0x587cf77045834bec2627f07ed4fd5afa98b84921b50c0d3f9ac56595f72ca6a6',
+          state_root: '0x0000000000000000000000000000000000000000000000000000000000000000',
+          body_root: '0xc8524399590a5e1ab41225e7c68e98c728f1600f565cdc17d63c0dab56313845'}
+        signature: '0xa6e059e545d8f6c2a181b99956d27030463b1e03c631125b0530ddb7d584e35c616e81effff5bafa45e895e9fbe54b15b2ee2bf6c03d69cc62c3fe75fa98c5410e84906c8e89305ed8fdded601890c60e2a1ad2b3a4efa774e01476ceaf01091'
+      signed_header_2:
+        message: {slot: 0, proposer_index: 0, parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+          state_root: '0x0000000000000000000000000000000000000000000000000000000000000000',
+          body_root: '0x9b8a078131f4dfc8e92b8f4430cd4b77a3dea07a32d5ac7642e8ecfa0e3932f2'}
+        signature: '0xe3c8afcdb59f6f19da479f4b9b7cc4c20a65e54248749a5195a21e0b0b5433e7031ceb76f21a6544ee929b7757dd08462f683bdbe68a3fa063deb1ff5b9a3a23d0ea75fd163d751ed0f9f7d92f28243058e0e5860a67248d9d44d72c024e3a1c'
+    attester_slashings:
+    - attestation_1:
+        attesting_indices: [4866428461780680881, 18446744073709551615, 10073038918855558869,
+          243204189684521726, 1432612532611931977, 0, 14256218491536324700, 7026586570874729985,
+          18446744073709551615, 18446744073709551615]
+        data:
+          slot: 5359948148174342994
+          index: 15196038155872402323
+          beacon_block_root: '0x2ab1d261227b34d2e8c29e950ae71e7cd45da291e91439b57965b15eaa7823a0'
+          source: {epoch: 18446744073709551615, root: '0x8ba6c928a9ae8b7eaf86dc547e765a61f0d443085896ec5b9ee25a95115befb4'}
+          target: {epoch: 5251901799696597700, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+          shard: 3544382227912670934
+          shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          shard_transition_root: '0x5186a642ad865dc6f0f7e6dc23c0516b155ba80c7b184b3de45df0e84ef2f3c5'
+        signature: '0xcefeb202a57e6c17327c797c51c38ed7bbc29a40b766f51b8a340126b941acbec2f4ea9bc7a002a3241d382f2858245fbd85949e260175b704e66b8f5f6d9192fa6eac5dfce6affa5fbd95db263b91c785015f6a0160f8dfeffead5ef80f67f8'
+      attestation_2:
+        attesting_indices: []
+        data:
+          slot: 2225847997365058696
+          index: 11622595013902766597
+          beacon_block_root: '0x5ede2544bc85edfa38eedec475761cfc68e6a42c61b03316cb6c80d256ec37b5'
+          source: {epoch: 3962898064115394647, root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+          target: {epoch: 0, root: '0x4c6c355827e8a80fe30f342e8837e16458947bc7183a79e95ececd261eaccaaa'}
+          shard: 3552871512804723029
+          shard_head_root: '0xb1dd7bbb23c6b3a01b02af1526bf336cbe792a4d4daeb82714ae1bb3f25f030b'
+          shard_transition_root: '0x0c87b9de8dbf3072c8a32aa800ff020888fce92453c09d2548bd719dc994f6f6'
+        signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    - attestation_1:
+        attesting_indices: []
+        data:
+          slot: 0
+          index: 0
+          beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          source: {epoch: 0, root: '0xacfb863f30cafd1a3847e8695b4c54cdbcff43db1b13d6092ba1eaa8b425f3ad'}
+          target: {epoch: 18446744073709551615, root: '0xe78a1c575814b35892b68089d3d26f5765b11ade931ce87269c50ae51b663ce2'}
+          shard: 14902549048960639767
+          shard_head_root: '0xc1e9584ee967050cb2dc7bc6c61caac430d1452533dd88f87173b76e7d7533f8'
+          shard_transition_root: '0xf067af2cf0168b6fa5fed7c52f23b2e2c1e1531080b17867544e9653e3ab21df'
+        signature: '0xf36ad04bf3586f5e62043e2d2f5596489b4b0c021236f348be5c298ec5fbe41e33d78e5d9e07649a10894b782c7cc29ff0c3fca87093875601bc898eaeee3692a0354cc4ac5af37b1c3e1c228ec5420afe1d2b2bfa99e56590114d8cf9e79636'
+      attestation_2:
+        attesting_indices: [13005729258319707177, 6428519139284810022, 17593773776339284074,
+          4379869016564349039, 0, 0, 18446744073709551615, 18446744073709551615, 4901310619824763508,
+          18446744073709551615]
+        data:
+          slot: 18446744073709551615
+          index: 12389214918577720484
+          beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          source: {epoch: 18446744073709551615, root: '0x5fdd7f52195e792d9c1a2f58e8f0540280a9a31f14182a5db70a3780a5014e6c'}
+          target: {epoch: 18446744073709551615, root: '0x858ebc1c6dd7369ecc2f2eaab8b223d481c31005afae033e4a698106d5744da2'}
+          shard: 8584564350060000309
+          shard_head_root: '0x102c811bd161028dc115b7946779d5670ee6f557789d26949f7c2392afd609e5'
+          shard_transition_root: '0xfe1f25c180e5eacb05d64ed3c3202dec031e21c89b3c19e43780cded87fad677'
+        signature: '0x29e28fefcac929ec982bd576d4577393a492d013c9c04e083558988467beca28be868b1d2014eb474526d162f1bc54567a4bc403b77955762578318bedcfa9bfcbf7c068e3f65fccc763ed7683501c8b2275df3bdf1c8bdcb6a7e62729d62bf4'
+    attestations:
+    - aggregation_bits: '0xbe01'
+      data:
+        slot: 18446744073709551615
+        index: 0
+        beacon_block_root: '0xae3806d1a610a08636d77b35bbaea635450c043c619d942651eea0ab6e2d97a1'
+        source: {epoch: 3847446450752590093, root: '0x22a5a4b2d6b2fc00459f4ead81af309a970617d3a57d4415afdb6a35b255b34f'}
+        target: {epoch: 2632259274834627110, root: '0xcfcdc4e0d39a44388e3dbce31470ab5c767686e395ecf0c96818df71cefa2d72'}
+        shard: 18446744073709551615
+        shard_head_root: '0xdc3b3eadabd1ba5c55c1d034d8e72fc4a134f0a0a5097a14d3635c10443982ab'
+        shard_transition_root: '0xb44475cbc78792221aae2a447c1bca5c0f340829801ffc236240b3f35c190586'
+      signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    deposits:
+    - proof: ['0x18935209a9f74dca25254b8591b60b3dafbe5cbce731f27cc50e4d35fd0de51a',
+        '0x4b24fa3f95ecb57a59bb65bce67acc6c5a23032142aa11793b59bd1c17334992', '0x0000000000000000000000000000000000000000000000000000000000000000',
+        '0xfed4b26fe2d2ceeef21411db2e941e635d19d19644b717e14ecb897015c2c936', '0x50b4482dbeef2e7ca2062a36e5ce3bc3cbd8c4206a02aa780e5201c3a003a819',
+        '0x61c35085d50d3aaff13153cd2000a54d98179762f3609b3c4c133e36f967385e', '0xc2bcc804cdbe8b6c9f90ebdeb437f0fc777c2729464aeee93c5e22d6b750f948',
+        '0x00de8c7bd131988207ce7cd12710d9b0c3e6f65d73cf3bfd0c64810e84878b68', '0x0000000000000000000000000000000000000000000000000000000000000000',
+        '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        '0x0000000000000000000000000000000000000000000000000000000000000000', '0x596f8073397fb1908cc9a3d06510b8fd970ab5782b80f3b179d8a6bbc4defbc2',
+        '0xb18c7a1889a433985788e798f86b5e751b56cbe9caca8c04e43daef3b2fc59f6', '0x8a399031bedc73e360edf663b6bda7dff1b33c7de631df442b3a0347f3f7f1fa',
+        '0xb53b9e8b2235b4a433be5c840f2dedc8caa6b703efd05ad305b6d6d0c6e95af5', '0x70b8f517a8375ff4a6c3776a352f71af6256e907913fc578dec780c2f8dcd9dc',
+        '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0x5df27748a249b4848cb63d4687591de559938cfdd707a11cc9434871125a2f33',
+        '0x81fc49a0def202d9986eb31b768d456fea0f4fbf0c85a0713886b84852c9c7a6', '0x134801355610607cb5b6525284f0758e5b884dc04cc2db0d9b37637313a2eca2',
+        '0xc0e4fc70b4129d8ba77d1858c78b22694c3f60bbd7d2ca0a4a005a19acd8b588', '0xef8f4595e6b1060db3534b6f3db6c7ac8bc9c9d0f02a3215623063cfb7ed5a3b',
+        '0x757528b2e1e2be3c1d8f0169dc77cfcbeb6cc419428e928dd8283f8cb4bed83e', '0x1206e4f192dd6ffdd699d7f9f722989a9ae09b8b57018b7e76f4843d94d7f194',
+        '0x543bb67533573b8228d262fc3ce81227dd378267872460151a6f9dc3eb886610', '0xdc848f9144d094fda14c90a12da0ace691e49c458e195a94634dd56305819328',
+        '0xaaa571b22f74ecf15328a202162ea1e6646c65bbf17ff8856cd62323c4948026', '0x39542955bed4b25cc89cb1061dafa0ff8235f3f95cb87d22586c76cad7256109',
+        '0x460f8f7e007cd6bb2f5c800829af446d42d40f22a4065ef0406bb2630dc790cf', '0x985f420b570d13d8d4561deb3876138aa1758e270d1373f029b69f0a03e680b0',
+        '0xd8375c9cf32502d4ddf7fa98c3dc2279f746c7c92343474cf74b872673c20f91', '0x9abafce5e9f4c802902bd1a5aa206af6596fd5b33429dbeb9e638ec47645f437']
+      data: {pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+        withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        amount: 18446744073709551615, signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'}
+    voluntary_exits:
+    - message: {epoch: 10787302355787443187, validator_index: 1211562221317494930}
+      signature: '0x9e017e121bf872e7233a915c545741c4cf57e99346eb1fbc18f6658f87e0ee883f02510523bd4d2cea7a61a0b6a27cce932989ea0e333d45e80baf40ab0a06e1cec4db989636943b73103f563780b856f4d13ed4086b2b85841fb0d53c81e044'
+    - message: {epoch: 6769991128289415416, validator_index: 13096151483182786555}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - message: {epoch: 784738209230739406, validator_index: 18446744073709551615}
+      signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    chunk_challenges: []
+    chunk_challenge_responses:
+    - challenge_index: 16220821986779681904
+      chunk_index: 12412391306138405798
+      chunk: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      branch: ['0x2ae31282f307141037905e0eb447e6c166328de23a452b5a283b31b88e6d3a14',
+        '0x0000000000000000000000000000000000000000000000000000000000000000', '0xc40061a4477993c9702355d9e48ebbb949de39ec80d019434a91e88d748c1dca',
+        '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0x0000000000000000000000000000000000000000000000000000000000000000',
+        '0x3cd0dfd452880db30b9d8cd66aa337c8eefe08b04c4ea98e2400faea069fc55f', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        '0x75eae2c46eee2147036deb806ca28b23ec3ed0c5c51138e08403f0d17b9b48d0', '0x8bac7828ce4d39d6c7c18a4dd00794a3ec0f98f2d18aded0bdf471931dd3f887']
+    custody_key_reveals: []
+    early_derived_secret_reveals:
+    - {revealed_index: 15355288919308376299, epoch: 13502326248597493833, reveal: '0x380395071169d453e50b692c2d263a74aeab6f43784d53580b28f297937e60505bb17ec9aa9410e9c1a4d2e5cfb3ba690b20cd62021e78a73e8a76e36214aafb6a6a228a59641ad19c04e7d683d0bd5be4383764d1b4aecb79d23f7d4126f206',
+      masker_index: 9556857075563356996, mask: '0x88b18174935f4ccd2ba8955db3730406e657e728d88ce76f20cc297f01575193'}
+    custody_slashings:
+    - message:
+        data_index: 18446744073709551615
+        malefactor_index: 5441811494888219475
+        malefactor_secret: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        whistleblower_index: 946799943358929319
+        shard_transition:
+          start_slot: 5897255618495749384
+          shard_block_lengths: [18446744073709551615, 1927829268015897860, 15140464155958862670,
+            13399174054171523670, 15380969031537279467, 18446744073709551615, 0, 17211958699464181488,
+            18446744073709551615, 18446744073709551615]
+          shard_data_roots: ['0x35f6cb35a06514844f4cb4fa5d74f8b247b803a0a5b344d4564b5b5b844aa66f']
+          shard_states: []
+          proposer_signature_aggregate: '0xc8c016ca3d0a6b692802f4403170ea36e809f6206c1127f05157c1c96f22c25303c120600e2ea76bfb3a40b95b3c84cf7ca72486e66160ff14a83bf4e80b469799cdd30a25d4c9716edd10855dc61f44a5b5015c90b13822dd89f6c3af68c687'
+        attestation:
+          aggregation_bits: '0x9406'
+          data:
+            slot: 1931712737378615959
+            index: 16675555326611169624
+            beacon_block_root: '0x353ae40a5bbc351994aa27058c4e92b3682e68c105b20b7c6af09e0d02f801fa'
+            source: {epoch: 18446744073709551615, root: '0x5ebc9775d8fffaf22439ab89d5799c188816aee2d616e8b054178761b0d75789'}
+            target: {epoch: 0, root: '0xe97435ae8091dc04e6affb4aa6473dc643e67cef7dc70fa913f9918d461b8c06'}
+            shard: 18446744073709551615
+            shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+            shard_transition_root: '0xae783ae58a70ff12dbe59ba650d0372d4e3ad700046f43b38cfcec072cdeaa51'
+          signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+        data: '0x99df08b37e9d76420828f711d0d2db705bf6324f5151352980e57cb23cc26b36e8e89058261c54ddfd56cf1c3d547bfff8dd160b2fc9d4dee39303937849fcc4a005fd03b8feefa65a10a9c654f56a9e10ef51aad8aa2bcb519a01b3083994e3a6334288127d989af25c90eda1c023724e35ba45deafae0ddcc03b785df1cc378b3a498c64cb1a8d871a292ad2a0b3ebe0a295e561f5e4902f859f4ac84975a3f3159111996951432c12f308071d5fc4132a90ce8593b5515142adfe4d7cdc61d7aef69d49b2be82e5e529971085f5f257651a05dfea9aaaf7182e5d3bae02d8190c1e9f8faf566f5d7f75cd6da5a5579fd22ed8302f1663f8b314dd6835d0d9edf07ffa7c3f73433bba3b9b6f26cc3226c7a5f1c75070650e4d3ac0da07a21743aa301b2242949f295f9df480fa35d80c67931ae6f6134acaf756311382b01bcdfd3f75aff3b1115994dcd76643dc236d1a94ef60e63248f1e83b3c7a7a4e1e93467b1d883b7b5b8dd84ea2c94990e4479ba68e7fbc7bae394a52da21a689c348e0361576d4c952404db7d39366ad35ce39501c1f783ac4430615e77eab61c8f2d51afa144b3f27c3daa6dd327e84ef7bcb09033583abd8f83d8adff40bd75888a26a59eb67e13ea2cc4f1d51c935f1fc0883d5afff10057ecd97f3e3b3b881d3f403193ded9d971b0c7bda834b7b1303e5a618f322e5e84322d22d166c6d7e0f1af3e351475824d3234675caa4587520911a5e5510d510430d5da9e175e7e92d06629515bdeaf8886e85fbfebd356927cf450b861f2ef4acf7921fe32250feeb3296f34d58d03f604df0d1ccbfe4cdeb67e0add775ebb6da9b07b7617ef62082700088149fcf2a90ced15e0857d53cf1d420aeafe25fc8cae564bee7574b847c5e644fe7acb170b5245872b521cd61be6c09f8be8f1aa2460f1b7172338d0cbb6c42f99e28a12219a4e0ce92edceb9b21216c5e6aa7f478f7ee12aee9967e311dc61923e6d0de3be77ca0d48cd1524d50e564f67826d5c0fb10af6bb85b0852bf21f414d1b5c3594a7bdc6400dfae1c8f4198a83d7c627e5ffb1acfcb607de8fa6'
+      signature: '0xe6258cfdf97c6bb7cf708a842c23634c30b637534d62de12f179b13268dc242ad85939e36efcda0d3ccd43384f1e03f1820b74afcbb9b194bb0c686aae4db9122708bd743e59e925c5b53de1e57759c720bba0354b816896408f29252e213acf'
+    shard_transitions:
+    - start_slot: 7730882029126864081
+      shard_block_lengths: [11494097566381403749]
+      shard_data_roots: ['0x0efbbd70bea7bcd23726f57f71d3d7c2f8189de8732ae2507c208d0579514858',
+        '0x6533bba0da065f950dce9b3299fdb76240bd7d0348986e9af6f53177fc0dc15d', '0x6d01cf0c1a13f3f17718d2914ebcc959f4e3e3e57c6cf020f253fabc53f8a51c',
+        '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0x02f03c687394c4d337b0d3623fcb0d66bc2ef4183e10fcbed0f6cbcddbafbaaa',
+        '0x0000000000000000000000000000000000000000000000000000000000000000', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        '0x9d844f8be8e94d6ce0a71b84751292ad6f3a1baa088e08147ce7caf1881ac10e', '0x0000000000000000000000000000000000000000000000000000000000000000',
+        '0x68bf53b1036e849fd1e8f7ca452d603f09303281144a2d8eb53df4891cfc88fa']
+      shard_states:
+      - {slot: 18446744073709551615, gasprice: 5825330864001998982, latest_block_root: '0x9cc123e5a79776eed9c7a05d562fab50ca1f2d14599f3fce4cf93ba34fe9d275'}
+      - {slot: 12015117003088181014, gasprice: 14361000986904578539, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      proposer_signature_aggregate: '0x55543d379eba47e9dd120ff2a0b00421e7657242a5ab5497c3854973c5f6e93dcb4dedcbe459121f369221628e8409a80d04dc227a650103c4f56b9e92d9bba1484202f1fb04f92a23475fd2466fa6d50a0381df7552886af9ce8f0ef40d3a8b'
+    - start_slot: 18446744073709551615
+      shard_block_lengths: [18446744073709551615, 0]
+      shard_data_roots: ['0x5d4b125d5bb7b05d9115902c6b46d6d5f0ac83ab3b85b7f3f879991ccd18471d',
+        '0x0000000000000000000000000000000000000000000000000000000000000000']
+      shard_states:
+      - {slot: 14495717824127241607, gasprice: 0, latest_block_root: '0x38e12b2cf169fe8e28685ab66915828c5077c6ac0fdb45407909c74ca6739a2f'}
+      proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - start_slot: 14047501944447022120
+      shard_block_lengths: []
+      shard_data_roots: []
+      shard_states:
+      - {slot: 0, gasprice: 16324475648737340980, latest_block_root: '0xa6ed7c66a16e40c3c7c2e8bdf80fb01bbb3eb95ba93a6741615a99fb69017124'}
+      proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - start_slot: 635791052211415029
+      shard_block_lengths: []
+      shard_data_roots: []
+      shard_states:
+      - {slot: 18446744073709551615, gasprice: 14550073209814658071, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      proposer_signature_aggregate: '0xae94833054ce89ba243c62ae8063d6c6fc1bc6136ebb1e4d2efcd6eb436acc83cde7f571d39875d9cbc4f8a54b3e59fb40306e31da3921559c4b9e1f9353e9dd54388de4c2a93eb24929ecbf02d1b1061f5ab53a9871e9aee1f91c3ea6de1456'
+    - start_slot: 12760266995326124881
+      shard_block_lengths: [13241356420923193536]
+      shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+      shard_states: []
+      proposer_signature_aggregate: '0xefea4ee7d71805229fb578fcc6cdf914765017ec54309f68527af1318b2b0f1c965c3dce89a601876db21e064a36d7e70f3a9a4c706dffc7cea9c14c15d2a8f05dd619b6ffcd11568f052ed55c6da73eba89fb75e993b4ce83ca132900b704e4'
+    - start_slot: 0
+      shard_block_lengths: [5980888409036563143]
+      shard_data_roots: ['0xad4e34e7cbcf426f52670d245a64856d428d849ae74e2f5d5f19d6a82ab32209',
+        '0x3f995ece306f9768876dfbbfaa1892b302b4d80c0df4f9e35f30fbb39bf65dbc', '0x0000000000000000000000000000000000000000000000000000000000000000',
+        '0xf3288c2bb19c69251079dcc0e9f3e63b88d6770b32532e7215b874b47b22a8bb', '0x224f1526b47c427ffb6c13e5176d6ca472f5d0c40a65dfc519e474c779c78db3',
+        '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        '0x5af2b66cfbbbc4c518b4617bc2e2340161d710050183187f6ca5ead097004455', '0xaba673d13fe8259aa9714a1c8a667a5d96aec477610d2eb0b39e9bf5b91b71c3',
+        '0xc26a1495bae97935bcecd95a3f1ee9a1e1ac59e38ea6b5b25f232b3ca0d415b7']
+      shard_states:
+      - {slot: 13885647960286519997, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      - {slot: 0, gasprice: 5798258110678158173, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      - {slot: 16793167906082409358, gasprice: 11539362428299408852, latest_block_root: '0x4253aff8912a44192115754b919f343be264fa23bd3bcf452da3b754c8d1cb6f'}
+      - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xd99973083d31de2d1e8b04e2c0b7f7a418352e1cdadebf004433873b287fcfc1'}
+      - {slot: 8254519194381105381, gasprice: 13544009891277488824, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      proposer_signature_aggregate: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    - start_slot: 18446744073709551615
+      shard_block_lengths: [509136587869721929, 18446744073709551615, 0, 0, 18446744073709551615,
+        0, 4335330556184682909, 13057752542803136157, 3002462395716776093, 18446744073709551615]
+      shard_data_roots: ['0x68c6cf990fbf4b7ff718566b11a99deaedf0918d161f26c18965b2829c6ab627']
+      shard_states:
+      - {slot: 9965113614311057966, gasprice: 18446744073709551615, latest_block_root: '0xc3083359a5259dc262a82e78494bc754cdaf97ee1fbff267e79671b83b986577'}
+      - {slot: 1710495171945371657, gasprice: 18446744073709551615, latest_block_root: '0x2e28e22e9f12a297494dde19ba1ff0214eed1716c923cc979c3895870b0b5ed9'}
+      - {slot: 5002895834309346779, gasprice: 11657828934278010678, latest_block_root: '0x4c5c2a719e4443f4c2ed10c3821cf798e44e17ee9652a55cb571faa051d624c0'}
+      - {slot: 12190965028556529273, gasprice: 0, latest_block_root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+      - {slot: 1221738423914462470, gasprice: 1954205506848218171, latest_block_root: '0x6a5b2c49cda37ce1ae2c133b5d9f0cd64b900df7157c0ab9d9a5c5daf7630fe6'}
+      - {slot: 18446744073709551615, gasprice: 0, latest_block_root: '0x9511da4b8958f3f0bb2838a742ea590681e42b245204c79b7d8347c8b2e3b17c'}
+      - {slot: 2604675814238089454, gasprice: 9952968173580905428, latest_block_root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+      - {slot: 0, gasprice: 12827075534649306505, latest_block_root: '0xa626780963e71d214dde24f76be5a4064a2f6b12b57929d2674ba96bd54b7322'}
+      - {slot: 17272815187656102176, gasprice: 12599169966483870081, latest_block_root: '0xf7bf6ee13422b4b1986b5d0d6789fdf2c100c1a503a265a397e1c877b8daddbb'}
+      - {slot: 9521195808405510299, gasprice: 12484539223611608450, latest_block_root: '0xa02cf06e20029ba9f98138b1dbb1aecf74738a213b51a6f27631c83d60b7acea'}
+      proposer_signature_aggregate: '0x8ed2ac301b97e4c10c30beaad7900881b8a3d2aebe573b5eea2f44831f60db13d9d527e1aefdab873e3b4288ad79234abcf27a7d0cb47d26b9eb053082850bc3ba0e13db77fab871e8493e6838f3288df96f78d4dd4a81ab6929bcd58d58d40c'
+    - start_slot: 3143186361358915739
+      shard_block_lengths: [12798462064972432845, 7337399735677523019, 13142714850235525066,
+        6489633620685945437, 7993631291421775010, 18446744073709551615, 17593034500785940517,
+        746988462169837339]
+      shard_data_roots: []
+      shard_states: []
+      proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    light_client_bits: '0x44c54793dea587a6cb0a2800526f8b49'
+    light_client_signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+signature: '0x8b74c2f1e83938b55e3ba0af5516f7c723e330a7ad822483fd00cba09167b79d2e04e8398c654c360a16b95f68bac9353b492eb676561a21dc692beccad829182d1a9780e63e3ea3f49a891569f2e37dcc7f340ffdfe04978ac028a48ac52318'

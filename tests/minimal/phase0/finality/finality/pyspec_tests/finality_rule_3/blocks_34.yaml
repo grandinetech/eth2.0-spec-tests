@@ -1,0 +1,48 @@
+message:
+  slot: 51
+  proposer_index: 50
+  parent_root: '0x7ff0ab5edf1a913f48593e9ac457f8b205533d0de75c6496ce2eaaee0aa7f10f'
+  state_root: '0xa068855c2e58d2b23271df0af999552aee07bed6fdaa3298bf149a5200528b4c'
+  body:
+    randao_reveal: '0x8cae99135654dc9d1f847d60ae4847a0a929485caab8ea61d0872a78759acefd80a07151a7c29e5e86060234cab857620991e91d1bfe4efcbf2f6c19cec41f979e8e0242b76e9f58d08e24839fd0013b216d71d516356c7d29c4eb8d062d0a32'
+    eth1_data: {deposit_root: '0x0000000000000000000000000000000000000000000000000000000000000000',
+      deposit_count: 64, block_hash: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+    graffiti: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    proposer_slashings: []
+    attester_slashings: []
+    attestations:
+    - aggregation_bits: '0x1f'
+      data:
+        slot: 50
+        index: 0
+        beacon_block_root: '0x7ff0ab5edf1a913f48593e9ac457f8b205533d0de75c6496ce2eaaee0aa7f10f'
+        source: {epoch: 4, root: '0x5a47b5dfe54e714c1bccc724c89c8f8be2140759c8e5a7389cb1db5c9843e2b2'}
+        target: {epoch: 6, root: '0xe086b1e1122ebfeb9f613b4015e6387128bc2f7d6981d5fca759c574dd78eb54'}
+      signature: '0x89d561b0395cd3a45115692925a3385d255ab61fa308f1ee954c84b1d8c3464489831314ebae0459eb0f4ac1082d02990d739d63b84ab0b9331048190e6d7a5c24d0762f7c392b4041adf9f32f6a57695a7f801e3f79abf386f818211ec43be1'
+    - aggregation_bits: '0x1f'
+      data:
+        slot: 50
+        index: 1
+        beacon_block_root: '0x7ff0ab5edf1a913f48593e9ac457f8b205533d0de75c6496ce2eaaee0aa7f10f'
+        source: {epoch: 4, root: '0x5a47b5dfe54e714c1bccc724c89c8f8be2140759c8e5a7389cb1db5c9843e2b2'}
+        target: {epoch: 6, root: '0xe086b1e1122ebfeb9f613b4015e6387128bc2f7d6981d5fca759c574dd78eb54'}
+      signature: '0xaed0003763c7835c9c548856621879d7efc17579409404a09064ecc6af87b817c2fd077deb3e142c06176f462ea260441888461aa50c22fa9cf95494b7a4f03c4af058b04888422940860742f97f7c328018a55fe127922c74c5aabfedd9125f'
+    - aggregation_bits: '0x1f'
+      data:
+        slot: 43
+        index: 0
+        beacon_block_root: '0x697d81d931268c5a6e37bc08807c26c121ec92093df0c19c69222ef14b6a9309'
+        source: {epoch: 3, root: '0x84bbaaa91f07a5882b6729b283a1971d3df86021d0a6db9d1ac9a30c5e7d6e2d'}
+        target: {epoch: 5, root: '0x556ad87abf167257f24b988f95611f9c172fbb046d1487ba1e87e784872e9e42'}
+      signature: '0xa54ed6269e04fb77a087c4350f9f7f48d7b12085dd33d55140bfe5f7beb7e3dee8f5fec232fa6811ebeb40153ccfca1e0f93b1b54e2bfbfc31aa2b75c2b0fea4aa9e12f60300f6bd677e2ad171ad4fa0837b1904a74bdc5eeda5d5e4419c0cd5'
+    - aggregation_bits: '0x1f'
+      data:
+        slot: 43
+        index: 1
+        beacon_block_root: '0x697d81d931268c5a6e37bc08807c26c121ec92093df0c19c69222ef14b6a9309'
+        source: {epoch: 3, root: '0x84bbaaa91f07a5882b6729b283a1971d3df86021d0a6db9d1ac9a30c5e7d6e2d'}
+        target: {epoch: 5, root: '0x556ad87abf167257f24b988f95611f9c172fbb046d1487ba1e87e784872e9e42'}
+      signature: '0x8ff1769b65d96d61c94894f94bc5b279159cd480d9606a2af9e81e22b0644075c36c3998ef5695f900ea03d266191f1716b0c63955c06073c658a347ebc44188d6ff1284e99f06d6fdc5f89c5e044e0c8bc804b3761da7a36de5e7e2c0db4e17'
+    deposits: []
+    voluntary_exits: []
+signature: '0xb3224ea1ccf5d016e25138755d0e73b66c899bd93c9b7c3ec89bb2e8446b6fe2c3037c8e1173ddb7dcc42ceb5145a8980d3cbe84b116ad5776787f816d76d2586521e1329be88e87b88570e4bf8f46a65bc073591e857f6f4be6a6b308cdf380'

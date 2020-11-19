@@ -1,0 +1,5 @@
+start_slot: 11268358636492391524
+shard_block_lengths: [0]
+shard_data_roots: []
+shard_states: []
+proposer_signature_aggregate: '0xfa95b23be1c9e3b29bb2c49ae393e0d27acb0400072aeb487b94cb099298fc6955cbfea4cfc7b154dd990833407168a40ff45058a7472fe0f2539c16672f34979f7027cc75ba3b308ddd710e49c2d867af854300a5e6d8799358c46a41ab5bf5'

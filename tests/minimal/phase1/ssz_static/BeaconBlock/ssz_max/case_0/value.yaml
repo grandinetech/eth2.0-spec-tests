@@ -1,0 +1,671 @@
+slot: 18446744073709551615
+proposer_index: 18446744073709551615
+parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+body:
+  randao_reveal: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  eth1_data: {deposit_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+    deposit_count: 18446744073709551615, block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  graffiti: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  proposer_slashings:
+  - signed_header_1:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signed_header_2:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - signed_header_1:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signed_header_2:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - signed_header_1:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signed_header_2:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - signed_header_1:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signed_header_2:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - signed_header_1:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signed_header_2:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - signed_header_1:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signed_header_2:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - signed_header_1:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signed_header_2:
+      message: {slot: 18446744073709551615, proposer_index: 18446744073709551615,
+        parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  attester_slashings:
+  - attestation_1:
+      attesting_indices: [18446744073709551615, 18446744073709551615, 18446744073709551615]
+      data:
+        slot: 18446744073709551615
+        index: 18446744073709551615
+        beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        shard: 18446744073709551615
+        shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    attestation_2:
+      attesting_indices: [18446744073709551615]
+      data:
+        slot: 18446744073709551615
+        index: 18446744073709551615
+        beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        shard: 18446744073709551615
+        shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  attestations:
+  - aggregation_bits: '0x01'
+    data:
+      slot: 18446744073709551615
+      index: 18446744073709551615
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      shard: 18446744073709551615
+      shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - aggregation_bits: '0x03'
+    data:
+      slot: 18446744073709551615
+      index: 18446744073709551615
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      shard: 18446744073709551615
+      shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - aggregation_bits: '0x01'
+    data:
+      slot: 18446744073709551615
+      index: 18446744073709551615
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      shard: 18446744073709551615
+      shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - aggregation_bits: '0xff03'
+    data:
+      slot: 18446744073709551615
+      index: 18446744073709551615
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      shard: 18446744073709551615
+      shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - aggregation_bits: '0x3f'
+    data:
+      slot: 18446744073709551615
+      index: 18446744073709551615
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      shard: 18446744073709551615
+      shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - aggregation_bits: '0x01'
+    data:
+      slot: 18446744073709551615
+      index: 18446744073709551615
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      shard: 18446744073709551615
+      shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - aggregation_bits: '0xff07'
+    data:
+      slot: 18446744073709551615
+      index: 18446744073709551615
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      shard: 18446744073709551615
+      shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - aggregation_bits: '0x07'
+    data:
+      slot: 18446744073709551615
+      index: 18446744073709551615
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      shard: 18446744073709551615
+      shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - aggregation_bits: '0x7f'
+    data:
+      slot: 18446744073709551615
+      index: 18446744073709551615
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      shard: 18446744073709551615
+      shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - aggregation_bits: '0xff'
+    data:
+      slot: 18446744073709551615
+      index: 18446744073709551615
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      shard: 18446744073709551615
+      shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  deposits:
+  - proof: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    data: {pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      amount: 18446744073709551615, signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - proof: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    data: {pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      amount: 18446744073709551615, signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - proof: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    data: {pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      amount: 18446744073709551615, signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - proof: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    data: {pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      amount: 18446744073709551615, signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - proof: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    data: {pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      amount: 18446744073709551615, signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - proof: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    data: {pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      amount: 18446744073709551615, signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - proof: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    data: {pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      amount: 18446744073709551615, signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - proof: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    data: {pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      amount: 18446744073709551615, signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - proof: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    data: {pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      amount: 18446744073709551615, signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  voluntary_exits:
+  - message: {epoch: 18446744073709551615, validator_index: 18446744073709551615}
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  chunk_challenges:
+  - responder_index: 18446744073709551615
+    shard_transition:
+      start_slot: 18446744073709551615
+      shard_block_lengths: [18446744073709551615, 18446744073709551615, 18446744073709551615,
+        18446744073709551615, 18446744073709551615]
+      shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+      shard_states:
+      - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    attestation:
+      aggregation_bits: '0x01'
+      data:
+        slot: 18446744073709551615
+        index: 18446744073709551615
+        beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        shard: 18446744073709551615
+        shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    data_index: 18446744073709551615
+    chunk_index: 18446744073709551615
+  - responder_index: 18446744073709551615
+    shard_transition:
+      start_slot: 18446744073709551615
+      shard_block_lengths: [18446744073709551615, 18446744073709551615, 18446744073709551615,
+        18446744073709551615, 18446744073709551615, 18446744073709551615, 18446744073709551615,
+        18446744073709551615, 18446744073709551615, 18446744073709551615]
+      shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+        '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+      shard_states: []
+      proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    attestation:
+      aggregation_bits: '0x1f'
+      data:
+        slot: 18446744073709551615
+        index: 18446744073709551615
+        beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        shard: 18446744073709551615
+        shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    data_index: 18446744073709551615
+    chunk_index: 18446744073709551615
+  chunk_challenge_responses:
+  - challenge_index: 18446744073709551615
+    chunk_index: 18446744073709551615
+    chunk: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    branch: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+  - challenge_index: 18446744073709551615
+    chunk_index: 18446744073709551615
+    chunk: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    branch: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+  - challenge_index: 18446744073709551615
+    chunk_index: 18446744073709551615
+    chunk: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    branch: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+  - challenge_index: 18446744073709551615
+    chunk_index: 18446744073709551615
+    chunk: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    branch: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+  - challenge_index: 18446744073709551615
+    chunk_index: 18446744073709551615
+    chunk: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    branch: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+  custody_key_reveals:
+  - {revealer_index: 18446744073709551615, reveal: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - {revealer_index: 18446744073709551615, reveal: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - {revealer_index: 18446744073709551615, reveal: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - {revealer_index: 18446744073709551615, reveal: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - {revealer_index: 18446744073709551615, reveal: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  early_derived_secret_reveals: []
+  custody_slashings:
+  - message:
+      data_index: 18446744073709551615
+      malefactor_index: 18446744073709551615
+      malefactor_secret: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      whistleblower_index: 18446744073709551615
+      shard_transition:
+        start_slot: 18446744073709551615
+        shard_block_lengths: [18446744073709551615, 18446744073709551615, 18446744073709551615,
+          18446744073709551615, 18446744073709551615, 18446744073709551615, 18446744073709551615,
+          18446744073709551615, 18446744073709551615]
+        shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+          '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+        shard_states:
+        - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+        proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      attestation:
+        aggregation_bits: '0x3f'
+        data:
+          slot: 18446744073709551615
+          index: 18446744073709551615
+          beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+          target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+          shard: 18446744073709551615
+          shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      data: '0xff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  shard_transitions:
+  - start_slot: 18446744073709551615
+    shard_block_lengths: [18446744073709551615, 18446744073709551615]
+    shard_data_roots: []
+    shard_states:
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - start_slot: 18446744073709551615
+    shard_block_lengths: [18446744073709551615, 18446744073709551615, 18446744073709551615,
+      18446744073709551615, 18446744073709551615, 18446744073709551615, 18446744073709551615]
+    shard_data_roots: []
+    shard_states:
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - start_slot: 18446744073709551615
+    shard_block_lengths: [18446744073709551615, 18446744073709551615, 18446744073709551615,
+      18446744073709551615]
+    shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    shard_states:
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - start_slot: 18446744073709551615
+    shard_block_lengths: [18446744073709551615]
+    shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    shard_states:
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - start_slot: 18446744073709551615
+    shard_block_lengths: [18446744073709551615, 18446744073709551615, 18446744073709551615,
+      18446744073709551615, 18446744073709551615, 18446744073709551615]
+    shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    shard_states:
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - start_slot: 18446744073709551615
+    shard_block_lengths: [18446744073709551615, 18446744073709551615, 18446744073709551615,
+      18446744073709551615, 18446744073709551615]
+    shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    shard_states:
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - start_slot: 18446744073709551615
+    shard_block_lengths: [18446744073709551615, 18446744073709551615]
+    shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    shard_states:
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - start_slot: 18446744073709551615
+    shard_block_lengths: [18446744073709551615, 18446744073709551615, 18446744073709551615,
+      18446744073709551615]
+    shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    shard_states:
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  light_client_bits: '0xffffffffffffffffffffffffffffffff'
+  light_client_signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

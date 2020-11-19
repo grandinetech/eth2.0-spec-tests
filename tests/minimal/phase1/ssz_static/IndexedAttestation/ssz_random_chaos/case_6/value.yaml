@@ -1,0 +1,11 @@
+attesting_indices: []
+data:
+  slot: 8926171279219669216
+  index: 18253089097774441139
+  beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  source: {epoch: 10517568446542048355, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  target: {epoch: 4649847961159110315, root: '0x8c37773a5de3f8c782324bd8ebd2589d6a611973b37f4493a24c6caf0a7614f8'}
+  shard: 18446744073709551615
+  shard_head_root: '0xeeac66fcd8e695c9208a64018cdd0560c742c2463ad70db0391b2863124e232c'
+  shard_transition_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+signature: '0xd4fb6aac954dc1ae1e231138d2270ed66b7484d848e43bea037967e8aaa4569ced0414d5c35b91c16926ff23da8c94f6038be27e27ac5023c6cc4bec573a5b5cb103057adebf0d0ee8febe93cfd5dc70b7a27a4ae706505932f1c2d0e33d9e3e'

@@ -1,0 +1,64 @@
+message:
+  slot: 8366751218856258382
+  proposer_index: 13962855630086059729
+  parent_root: '0x9d629d0d2bc8657dfd991db60baef70fdb9c4c013582ef3141cafd5bfc1269d5'
+  state_root: '0xcbd31067100a98c79fa40ee8815284a96be465574499af12ae0a6f45e8cc8773'
+  body:
+    randao_reveal: '0xa7bbdfc9305726ba017963ebbd1129c015724dd131a090326fcacff811da2c86fa91e4f7a72418ada5e35698bde3904f769ae014a83b6de4aa251a2cfc06275540c5c715c7e30c24624905df192eb56e3faaf678b939514632de55a2488fab36'
+    eth1_data: {deposit_root: '0x1c457c67f939f631d6a8dd7764bd06294830730aa9048deadebd8b75732ef08a',
+      deposit_count: 2754637150917195139, block_hash: '0x03d9b1680fc3d69f883a07cafdab987cdde30b9e72f60a4c2682ce25bc689592'}
+    graffiti: '0x628c6d41bdb177698fdc8c87458e0d58e4f2f3576ccb5729ea7aef04f5c256d9'
+    proposer_slashings: []
+    attester_slashings: []
+    attestations: []
+    deposits: []
+    voluntary_exits: []
+    chunk_challenges: []
+    chunk_challenge_responses: []
+    custody_key_reveals: []
+    early_derived_secret_reveals: []
+    custody_slashings: []
+    shard_transitions:
+    - start_slot: 13347917177826455434
+      shard_block_lengths: []
+      shard_data_roots: []
+      shard_states: []
+      proposer_signature_aggregate: '0xcb18f6f50b9d1766f0ec78922eecd2189f3fb06cfb7468766f97c98a59360e0387b384d9664ec1a4d6c2282b151ef1eceb9a709f95a99443997fbec2c8a42ffea0217e797299103aa052696aaa581ab8fa8c0d5f81c6d34d0a897d533de9bbe0'
+    - start_slot: 5056349963068824681
+      shard_block_lengths: []
+      shard_data_roots: []
+      shard_states: []
+      proposer_signature_aggregate: '0xf904b21ab0f9fe974ed334503a64e4c0268dcba6ced09922f6695fa61b2969d2f55a984231e53722546ee95e50f006bc90e0e94da7699c6f9bc72ade15bfe448bb781086195768e5831faf32c447531754b8930cba58f41423aef432f482c6fd'
+    - start_slot: 7578239582474428108
+      shard_block_lengths: []
+      shard_data_roots: []
+      shard_states: []
+      proposer_signature_aggregate: '0x1f5b03877439633da19b819df0045ad519690cae44e65a9800b495c72be9627364b6e7492d2f2c6d69d89c59c4bdd7c801c6677d2e48db851029c5ee7701b5978978770c77e1a7d226a15122d282974a65f5717bf75afc4861dfb5f62599b6a5'
+    - start_slot: 1138229127605020129
+      shard_block_lengths: []
+      shard_data_roots: []
+      shard_states: []
+      proposer_signature_aggregate: '0xe9649d5d03430d2795d207959367a7a48bbd16af98b199ace0e8b17e7dacc43f754220e72e93c3253abd9f936457a087b123bd2ed54961b975ee01cc89d0b84898e967bb6d976620b609b4a15df5685d6c3bae93bff05d5d090b209990641671'
+    - start_slot: 8705424439663258798
+      shard_block_lengths: []
+      shard_data_roots: []
+      shard_states: []
+      proposer_signature_aggregate: '0x5037bacdaeba75305dd7b0678191ea628b6f5f0869883f9586c57ba3db62e78630d1ae7fb35478afc264add68e10536327e236d2b4dcba1c8acbdda62278439dcda8c622774111a1a984154213738b5c043ee0f61cad89da714551401725c718'
+    - start_slot: 11182028018932571250
+      shard_block_lengths: []
+      shard_data_roots: []
+      shard_states: []
+      proposer_signature_aggregate: '0x931df59e7f5b3f4b702bf4726c78ef370a8f93a395b75cad6e4db5b157812a56479af42848ca0486ddf78468049583aa8d8744a36d15fa6352664010c8b2e86c966d6ebdca3364db93c1a8a99150391e70bf83454e93483a9d65d737ad783f99'
+    - start_slot: 17206982651196974836
+      shard_block_lengths: []
+      shard_data_roots: []
+      shard_states: []
+      proposer_signature_aggregate: '0xd9c65b0625ab248d4a7634e8384d504b25b2cd1172fed8227be89de8e87c7b0d64e10eb2183ae7f45ebc78eac064225033d2e95a94b2ee1276db0f601ae1d3870e0de6733949352d7c5a2abed26afb11ea688bbaba0baf49387adff35ed7fb24'
+    - start_slot: 18186112212224000662
+      shard_block_lengths: []
+      shard_data_roots: []
+      shard_states: []
+      proposer_signature_aggregate: '0x36038bad06e7a0cc5a735e3aa6e10fc14224f2e75ea9a3c524c6e9f79c75e2ee9fe3fd760c92b7681fdaa3c6609e3bd714f1d38dab9d63639e9acd675f4beca2ed7981e0685a559208fe5ae3f3513bf10169cd532b8cdfb1a64767e0a2eae5fe'
+    light_client_bits: '0x208c388fffb0134aef950e7f04cee824'
+    light_client_signature: '0xf69234f44075f1e6854c1530cc41ccc32a3cec8edc35a02cc6e9431bdc06a25f86b1c2ba9ceb227a664dab0d99af21732ec78b38f2830be553b51f99b2cfe46e8a9a46ccc19bfc68af2118365678e16118f22393d27fa9b61a4a8c3987c71047'
+signature: '0x03e09f00e40d5ac97a10c62d92130c81ace7a09eedbc73e9a00ac1ee32470e5f9ae241538adca0633582992af0aa956aae20968fa56cf403b2c18e3de45133213fdba25bdff7f8d6552a615f9858922f2416003b914bf806b22313c8348907d3'

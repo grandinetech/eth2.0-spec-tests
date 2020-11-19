@@ -1,0 +1,32 @@
+responder_index: 8873893565998710096
+shard_transition:
+  start_slot: 18446744073709551615
+  shard_block_lengths: []
+  shard_data_roots: ['0x7d85d299fb9d4f1b1f272ec06136ae2cbd7c87b548da447a42d746b3fff26fde',
+    '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0x1842cf54066fde7318dc6eabeec132a5bd3dc2c043deb31b1f6ee73d264ea008']
+  shard_states:
+  - {slot: 3613553479381439587, gasprice: 18446744073709551615, latest_block_root: '0x03d27898aedacf0841cd1338d50ac28c8f6d550e06be76d14e46eaba3810da28'}
+  - {slot: 18446744073709551615, gasprice: 201784953659833731, latest_block_root: '0xc0315c6ac370ec7833cfb9a01403c177fd72112a073c61034834f6d3b33f25d4'}
+  - {slot: 10007141510897505250, gasprice: 16617195271361057274, latest_block_root: '0xbf534c44d28cc019f9af40208b3a6bbefbc6279e59b8d9bf70e29b47e990989a'}
+  - {slot: 4226321707213232521, gasprice: 16019655402475958965, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - {slot: 15710189257062939231, gasprice: 12273129028068701138, latest_block_root: '0xdddee4aceac985d57895ad4f224403216b7c31c758cfdf27ec9ddfe0bb298528'}
+  - {slot: 0, gasprice: 11936654298137547697, latest_block_root: '0x7ad55c6d7bafc69da03802fa32e2848b009c2d44a3e8bae8a0d1068cfc427e0e'}
+  - {slot: 0, gasprice: 12213795976278276889, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - {slot: 12173277774263624054, gasprice: 15444746950351325830, latest_block_root: '0xad76b42e81d869470083373c7efc5f8cfa8931b8b586d943433bda22497208ca'}
+  - {slot: 6963670861945249927, gasprice: 6967453929901825675, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - {slot: 2110924071998932129, gasprice: 18025557537045313464, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  proposer_signature_aggregate: '0xfdd4003dc0b7f33b691ffff1b841383d246ab4608d1bd7efb9955c4d39083ac3523d77e72f6b96eb6100dcab72035e04b38d130a791f02872c14f9703b47f90f79da077f7a6b1dd2f3de22218d1a8acc195d0b59e4467e6cbdb3435e4683b533'
+attestation:
+  aggregation_bits: '0x02'
+  data:
+    slot: 18446744073709551615
+    index: 18446744073709551615
+    beacon_block_root: '0xa424654a70fc7f1ddd01eb5098abcab6ef3ba7cedcca7a289ccc3555330787b5'
+    source: {epoch: 18446744073709551615, root: '0x7826d85d0473d65451105f5576b49dd0631ab951b9ee4cb3acaca8b2f982484c'}
+    target: {epoch: 1389056880474641957, root: '0x53321607ed8cca1335813dacbf8940854792a65323a5f8a6b5a95b6d2b0668d2'}
+    shard: 2586046994739444121
+    shard_head_root: '0x925c5c8e307253e7e8d2ba2a28a73f7ca744cf0e08914c568bd30ee847064ca5'
+    shard_transition_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  signature: '0x2742911029773b9174e3916ba8a69b350eca33129661fe2d41edc6f3f4cf664962f30275f910f855f88986850f944f9dce5ec0ef97b2e02405b3670dfdac4f91b1fa35c631643e2d88591fff93593cc38c6fb17e4ace9cc7f698c9ffb2b98579'
+data_index: 8170930599109331003
+chunk_index: 345578270091737801

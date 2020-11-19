@@ -1,0 +1,32 @@
+message:
+  slot: 38
+  proposer_index: 31
+  parent_root: '0xb1386f5b50acdd7ff23ee643f727a68bb6de1fe080442f82527cfbc6830648a7'
+  state_root: '0x7dd4c2065af6fd2c4806cd88514ca1808b02155e72eb823dea72f4e9a755f60e'
+  body:
+    randao_reveal: '0x92a2cc745485444ee4a36a8e2fa563a27b2442ab727e678b988b36a0d140368021b1a2ec395a85a8881dda62ca1282b10cb9e29d9345053648b983821255dc4a9c7485a45c14fed02473986c4b9bd1dcd3927d521982acc92424d7a1035670fc'
+    eth1_data: {deposit_root: '0x0000000000000000000000000000000000000000000000000000000000000000',
+      deposit_count: 64, block_hash: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+    graffiti: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    proposer_slashings: []
+    attester_slashings: []
+    attestations:
+    - aggregation_bits: '0x1f'
+      data:
+        slot: 30
+        index: 0
+        beacon_block_root: '0x6c2d917cb13fc794f53f9e871ab5eb7a744845e12db6673198edc79b19b86c3e'
+        source: {epoch: 2, root: '0x1aa549ebaa606d7d67d1c582fd35aad64c409afee2256227351ae92cfce6fc0f'}
+        target: {epoch: 3, root: '0x84bbaaa91f07a5882b6729b283a1971d3df86021d0a6db9d1ac9a30c5e7d6e2d'}
+      signature: '0xb73b8ae45f5a88f4ff932642c08058c25ad99e45f81d3c14d89ef6c0149b52858fde2c0042b461d8f97041679849bae001327b6c4c8d3bdb2600b4af457ad184e919f87c980fab50b0304420aa789cfb34d8e004bf09c666ed9aaeb9ea918bf4'
+    - aggregation_bits: '0x1f'
+      data:
+        slot: 30
+        index: 1
+        beacon_block_root: '0x6c2d917cb13fc794f53f9e871ab5eb7a744845e12db6673198edc79b19b86c3e'
+        source: {epoch: 2, root: '0x1aa549ebaa606d7d67d1c582fd35aad64c409afee2256227351ae92cfce6fc0f'}
+        target: {epoch: 3, root: '0x84bbaaa91f07a5882b6729b283a1971d3df86021d0a6db9d1ac9a30c5e7d6e2d'}
+      signature: '0x89461f525fb17c0c5b13a52eacb5aa1c9a70b4a44cd457ac22962d1c31228f66d04aa8803ae01d64c13790d298f6b8c111d3cfe823da97a657c783116cc4c81558a5b0b615aae13392788fa853490ee56a7dfada14a8dbcba9ce9bbc659b0697'
+    deposits: []
+    voluntary_exits: []
+signature: '0xb596510035a4ab6ebb74ddc95b8aaef2c28c16c5257b8de31b006c03d71c3bbb8a1d955eb65b619f1ca19628799bccb00f47a5c764fad6eb49eeac6f05c0c7eeed3e71fc604ec5be421d728d7c182bf5abe9d654073bb323624e59fa801b79d6'

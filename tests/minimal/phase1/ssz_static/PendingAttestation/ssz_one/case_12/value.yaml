@@ -1,0 +1,13 @@
+aggregation_bits: '0x02'
+data:
+  slot: 15689011911271354719
+  index: 8557133012106406213
+  beacon_block_root: '0x3c582f08b8cb8cf5c84a6974219aa1147e2c1c967b11f7f84e0f2aa7d4f20d2e'
+  source: {epoch: 16029397761679601641, root: '0xb9abd52f4d6db6b40b1f80b5e13ca8d278bd1218e4e8b661b35e4c971b1c9fcb'}
+  target: {epoch: 14327379638879085423, root: '0x95e5fc0a33b1ee18e04de84ea6e20672b6a07b79b4cb8707b6ed12ccac99e3c6'}
+  shard: 1442961045571903233
+  shard_head_root: '0x11c18c44e23528ff811917acb3a5c9ca86ae94df2f64a5fe459ad38a73e71a27'
+  shard_transition_root: '0xa96335c442ddbaffb3c276b9b3b10dc64877d648dfc3437e968ae57f4a982fc3'
+inclusion_delay: 12198390184046995834
+proposer_index: 4074634048858523637
+crosslink_success: false

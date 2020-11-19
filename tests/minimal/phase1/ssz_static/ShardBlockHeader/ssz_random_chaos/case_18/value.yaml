@@ -1,0 +1,4 @@
+{shard_parent_root: '0xa91dff1967e688d50e640e6402a93cc5e8957a2032af121b29def2738b39a02f',
+beacon_parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+slot: 18446744073709551615, shard: 13033139638152295950, proposer_index: 1945020730724983400,
+body_root: '0x2450e9314fa44a8ce8903d5fccdfbc4805d54f9b875a22a399d6612cc0607901'}

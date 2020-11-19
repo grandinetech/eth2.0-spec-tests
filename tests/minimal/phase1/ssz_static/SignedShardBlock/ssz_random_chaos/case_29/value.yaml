@@ -1,0 +1,4 @@
+message: {shard_parent_root: '0x40f11deb9755dc7544ff1472e1efb552ad1b89dbf0bfae140c76e2015cafa032',
+  beacon_parent_root: '0x0000000000000000000000000000000000000000000000000000000000000000',
+  slot: 6942500369536817666, shard: 12399173395208667268, proposer_index: 0, body: '0x28'}
+signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

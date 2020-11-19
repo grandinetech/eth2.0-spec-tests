@@ -1,0 +1,11 @@
+attesting_indices: [0]
+data:
+  slot: 0
+  index: 18446744073709551615
+  beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  source: {epoch: 0, root: '0x6c171c5b7d135ecf890cc25248cb6fa0c0b66f58cc11f65a4fb573520b0820df'}
+  target: {epoch: 12657490170286390727, root: '0x27990aa5be435ef67a6b1fdb34d2ab8c1f38b310b35ebe1dfd581abc063d5669'}
+  shard: 2285173933476649064
+  shard_head_root: '0x33e906cce43860b2e2d6b2eb216acbc09c73da77fde24a8571860e3ab163c996'
+  shard_transition_root: '0x319304dad6b4ef171eae7b96b07db5b1380dbacc25afcca3d1fd445c9ded4b9d'
+signature: '0x07996fadcfee31acdeda4e4f1ee47da39cc692eedb9f369e6b0b63732cb1cbb09fbb8e6a6907b120fd0cbc2a95303aef774efffe0f69cade1e2417241421c3672bf74014676ddb9a6117460fa0b17b23152a9a12e0f5f50741acff6b2a2a22cb'

@@ -1,0 +1,27 @@
+message:
+  data_index: 0
+  malefactor_index: 10007312041947325726
+  malefactor_secret: '0xdaa311c1a764da86d7c1304252c2488e5428e580562c4c274cb195a465dab43f95da34f5aad14c75255887d8c0b806caaef03658270511adfa9e46101f4671ad25ee3ad91f8c02a23179a0fa49b2075cd5bf20a683e003fa1ec3e4e55aef6edc'
+  whistleblower_index: 14292275878593894210
+  shard_transition:
+    start_slot: 3177960749504166720
+    shard_block_lengths: [1220681872750946498, 11878534984993473435, 11160478372073099379,
+      18319673201692374570, 9225174908163948109, 9138528696972842007, 4322899027169422966,
+      1168422038704528238, 2483707004142114021, 3823902208159530497]
+    shard_data_roots: ['0x82d068397e6db64e909328d9bb07f117bc95fbf4d275214fef27b50704efabfe']
+    shard_states: []
+    proposer_signature_aggregate: '0x5e03ef9e849d04b0a1dce7f778c7267a1fb73a5248b6bab601033bb76eea8bf11a2e3884cbbd9793c14b7628364f9edbdbf28c60966cc7c3f855ff9e546bdd924ea084d568adc9fa01550ca66d663605b2e8806267b6e56f61e684786a58e2ef'
+  attestation:
+    aggregation_bits: '0x0b'
+    data:
+      slot: 10062863623792396020
+      index: 8047458475206112947
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 0, root: '0xe4b61d7ac9e074ce4b3af2c146bf6886b8a847ac0555cb8a6e1ea6efc40e70de'}
+      target: {epoch: 9862198650117797727, root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+      shard: 16827286649440076938
+      shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  data: '0xb5'
+signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'

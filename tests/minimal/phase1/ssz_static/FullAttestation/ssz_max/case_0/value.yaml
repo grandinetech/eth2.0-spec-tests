@@ -1,0 +1,19 @@
+aggregation_bits: '0xff03'
+data:
+  slot: 18446744073709551615
+  index: 18446744073709551615
+  beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  source: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  target: {epoch: 18446744073709551615, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  shard_transition:
+    start_slot: 18446744073709551615
+    shard_block_lengths: [18446744073709551615, 18446744073709551615, 18446744073709551615,
+      18446744073709551615, 18446744073709551615, 18446744073709551615]
+    shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    shard_states: []
+    proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

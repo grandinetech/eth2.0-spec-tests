@@ -1,0 +1,22 @@
+slot: 3932476738235460450
+index: 18446744073709551615
+beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+source: {epoch: 0, root: '0x3d7386cdbd591b58f8518596a18e2677be2fc659958a1c568759b0f1f450d397'}
+target: {epoch: 0, root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+shard_head_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+shard_transition:
+  start_slot: 10747051445017609510
+  shard_block_lengths: [0, 18446744073709551615, 1500004125790332049, 2760459370948805912,
+    6007238662831165609, 10498316099116441302, 0, 11418542622632354905, 14653425098795276632]
+  shard_data_roots: ['0xb5ed61191fa6f083639a9afccd9f48a7ed4c5fdcefafc9c4fd66a9448816f0ea',
+    '0x75836bffd0ad5a566b1a01c5d96951ac6a0dc336792100434f7c5e68e041a028', '0x4cbd9097712bb05f3eaac1f7f506cabf171b07dd85066a22f2244f6b7df410a0',
+    '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+    '0xe3079040e9894194e7019cab3b536aa70759df2fc7c746d49b45989be3c7b00a', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+    '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0x9c2ebc8b37c2c54b240806656c8511857f17009b43ce7dab275759609437da20',
+    '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+  shard_states:
+  - {slot: 2763519815545326721, gasprice: 16412559100483196685, latest_block_root: '0x01eceb2d1f61ba85cf1385e37525ebf942a57a67d55c4f8a6b4e46a5cb8c12a0'}
+  - {slot: 3101446283757561935, gasprice: 13519716831987577040, latest_block_root: '0xcc965625bc1289e7686817c933b76fe25e9b6140d4c35d1619abdb9ed913fcb6'}
+  - {slot: 18446744073709551615, gasprice: 8115320345851653735, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - {slot: 0, gasprice: 0, latest_block_root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+  proposer_signature_aggregate: '0xc2a06da61f5db970f61c1c2f9e42ba79609c696fc888f5cebd9a4099c572261c9da225dd01f6fa3a20df345aff129cd3b530d0071bf7add5e114ec6aae6a38e188f90fb28ef5b8c5fd3e06809febf06fc9138b0512f7344b1c647d6a38f4017e'

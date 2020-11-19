@@ -1,0 +1,24 @@
+attestation_1:
+  attesting_indices: []
+  data:
+    slot: 9782334469163925252
+    index: 528358975302432981
+    beacon_block_root: '0xc30dec8f0ee32af92c0043ad193773fe8551716b196f9a94a1128cbacc2894ce'
+    source: {epoch: 0, root: '0x69741d3095cd9691b4b54d69eb08a7036e250250ed8ddfd0b9f71fc85472d70c'}
+    target: {epoch: 15013127090420265467, root: '0x72d510f0faa74464c755fedfbcc71cbc638af524af339742f9bfaf94ec9b4c96'}
+    shard: 12568236695166762899
+    shard_head_root: '0x8686c4eb1dcc582181d5e05d012e075baaee0d66dd5527788127b2589b4c08e1'
+    shard_transition_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+attestation_2:
+  attesting_indices: []
+  data:
+    slot: 18446744073709551615
+    index: 18446744073709551615
+    beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    source: {epoch: 18446744073709551615, root: '0x9620b616d82da07b6f57631fafabea1d7b2d98cc56b8c13d50f1a84bec00881c'}
+    target: {epoch: 0, root: '0x433a7490375afd4a13e99aae271e452a816c2e3168a2337eb9ccf3b95a4b5a58'}
+    shard: 11836740090450787036
+    shard_head_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  signature: '0x2ca4538899479f0b8235940c88ebcbe6973f32546679046b59ab9cf5c0924b0824315a77b0e8b717715bad721a9c37861efe743de4400ef222292c657aa258480092da5f7e9dc9958b58b36a935dd18c397c060d227228bc9a495b427c50258f'

@@ -1,0 +1,20 @@
+start_slot: 60971113825439909
+shard_block_lengths: []
+shard_data_roots: ['0x6923e5a5533fed3c00f4b4d3c04ee1c5ad0de240f23f192a1d3b562cc91aaa3c',
+  '0x7c98636e2d2ad1b90210f4d55b3831c835953c976396bd11760b4a2cf18a7e05', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+  '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0x054da495865baf2d6c2b6ef602f1cc39390c5bf772d81e63bb002e6dceb24edf',
+  '0x6773528ff155d676066f6f265a8aceb3f454cefbca53b86619992ab474d47f4f', '0x326b3b84a1c9f64fa9c937382ddc438c284652f8a919a780271e321f37ffe53d',
+  '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+  '0x719971bac81127554aff5a69a6da18d1e84722c608f42582e6d60a370acd6650']
+shard_states:
+- {slot: 12661612651157729487, gasprice: 13461582028439193266, latest_block_root: '0x9c36ca7f35b79d9752f6daa1f5464ab8a15fdd0fb01a2f0b9df78f435cc29643'}
+- {slot: 0, gasprice: 10028864131607137924, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+- {slot: 10966338412747864159, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+- {slot: 4617868066037864529, gasprice: 4641407344849738314, latest_block_root: '0x777e150dbf0c540e5c893b72ab4e0afd3c3bb32e41ba37d64eb85f8acc4e08aa'}
+- {slot: 0, gasprice: 1019544039831894733, latest_block_root: '0x965ecf2351aecd80782d8f922dc66346b006a4ef78f074401c6ab158d797a138'}
+- {slot: 4222605513375018742, gasprice: 11352694594753990768, latest_block_root: '0x8ae19da0b1f9b533df00d1de6e9f59a21e0ec158f2b11aafb1a61d2e4910dcd6'}
+- {slot: 13206790275906259081, gasprice: 12427189691960482662, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+- {slot: 16071751984456178159, gasprice: 17316812864478316047, latest_block_root: '0x5a32b7e3d918e5a26c8f576dc463dfc533d2af4f6d8da3cb84dabd79dffde4be'}
+- {slot: 12978871583170178913, gasprice: 1122367833798478556, latest_block_root: '0x3e442f2362c51b616975ce906f876fec168565d0361c961fd495941ab8f5f16d'}
+- {slot: 0, gasprice: 373761274948021617, latest_block_root: '0x1d5b4be3d8f6d9ff872016eb46d6579ce65dfb3de0e5199205d9caf6f7d78ff3'}
+proposer_signature_aggregate: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'

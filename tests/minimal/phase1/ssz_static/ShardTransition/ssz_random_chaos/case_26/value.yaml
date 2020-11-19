@@ -1,0 +1,10 @@
+start_slot: 0
+shard_block_lengths: []
+shard_data_roots: ['0x45ff55c3fad51bd9fafd5fe59802aefcf6c5da647ae38e497a2c5fc0aec976c1']
+shard_states:
+- {slot: 17923038182926941760, gasprice: 1985466668107622722, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+- {slot: 17272361374129762510, gasprice: 18446744073709551615, latest_block_root: '0x5defd28c9f6631793d8d781156b89a4072d9de4da5cfd8374f309c65ce39c5b0'}
+- {slot: 0, gasprice: 18446744073709551615, latest_block_root: '0x95bfd6ad558f3c9602aad2f9510d61d6fc40454be4fba360f82c25e822459d5d'}
+- {slot: 4470544395757978082, gasprice: 0, latest_block_root: '0x8c250f2a6b79ad8b871301aa631283ba2f70d0940716c9e292296f25b4c5552f'}
+- {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

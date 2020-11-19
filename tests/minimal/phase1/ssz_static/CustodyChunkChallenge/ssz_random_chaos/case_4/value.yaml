@@ -1,0 +1,27 @@
+responder_index: 18446744073709551615
+shard_transition:
+  start_slot: 5642110003104298669
+  shard_block_lengths: [1062301126172502068, 11811778276873096299, 18446744073709551615,
+    7118211474782422837, 16977858829487865042, 12333895826717797334, 2375408053714059866,
+    18104619580543187281]
+  shard_data_roots: ['0xf67a321cc264b951e5fda4823b614a30da09426813a5ca384823778eaad7d917',
+    '0x893752675a1dc1eab7aed0642e7bffd2da9de01f12a9ea50610fc24aeec2988b', '0x0000000000000000000000000000000000000000000000000000000000000000',
+    '0x6088ca082b5bed72c4b865239e71cb0aa18e34a63462de65271465fbe3580699', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+  shard_states:
+  - {slot: 3677724454122477340, gasprice: 16192670219391135768, latest_block_root: '0xf27ffe4e89eb5c83398c5928d57734ef76a844e7592c006345cc79d61a521b15'}
+  - {slot: 12069696184638391783, gasprice: 13616127904378676801, latest_block_root: '0xb6708490ed360dcec7d9fe39706d608c95aeadd9a88de7a6e10b106f9cf57b9d'}
+  proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+attestation:
+  aggregation_bits: '0x01'
+  data:
+    slot: 0
+    index: 0
+    beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    source: {epoch: 0, root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+    target: {epoch: 13982329017254474260, root: '0x995de830108bc43f0b7e4c664e97f4b79e786382299aece29a295e8ce4dcf4fa'}
+    shard: 0
+    shard_head_root: '0x0f49fddeba7833694d72e1e6776eacc7d5f54889a3406c1ad6ad8dcca1929ae3'
+    shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  signature: '0x417246f1e65480c60a1ab0c4b36650b5849b21cd5caf6235e37f6885922f8ce0da61ad0782f7885c797e15dcfedbc564654ada8d4ce6ee7a770f7ef24061c810bf0f41166e1c1a17f4adea35a886b140abec172fdcab2b4ad3777960e4150554'
+data_index: 3784532934759634180
+chunk_index: 13281912868521031247

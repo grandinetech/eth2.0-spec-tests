@@ -1,0 +1,5 @@
+{pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+withdrawal_credentials: '0x0000000000000000000000000000000000000000000000000000000000000000',
+effective_balance: 15774015356609910789, slashed: true, activation_eligibility_epoch: 11022004590394882069,
+activation_epoch: 13955917876175267833, exit_epoch: 11701572167377677466, withdrawable_epoch: 0,
+next_custody_secret_to_reveal: 2377029080841128587, all_custody_secrets_revealed_epoch: 8350680240190113170}

@@ -1,0 +1,5 @@
+{pubkey: '0x872edbc68af115a9410c29120d8f059399a0487edff41b02ce76c6369293966cf83d2a3f103844a3a0822169ea43c390',
+withdrawal_credentials: '0x1ff94e2f443e7ff076ef4f144b06d1fdfe4edc10a59f7997a2e44c55d202257f',
+effective_balance: 11793543627230619309, slashed: true, activation_eligibility_epoch: 13460576668486064913,
+activation_epoch: 3161295771838798956, exit_epoch: 17073725280779233109, withdrawable_epoch: 12016957250124120855,
+next_custody_secret_to_reveal: 13426097813243744848, all_custody_secrets_revealed_epoch: 9639539625442289512}

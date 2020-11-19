@@ -1,0 +1,11 @@
+aggregation_bits: '0x89'
+data:
+  slot: 18446744073709551615
+  index: 9143829537114990966
+  beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  source: {epoch: 15438469756764128529, root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+  target: {epoch: 18446744073709551615, root: '0xc4f9dd2d4a71dd14e485ddc58de38e5adce9dbc1c9c41a87a56ec256587e96bd'}
+  shard: 0
+  shard_head_root: '0x2f04e3a3138a31c538a0e2377be1164b56d383fae8aa518c3086e1b25459ad3d'
+  shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+signature: '0x8bb124b0c8fce694f06040cc1262ae4f655a10dc9eb67c8f71fcf56cbe2a1682e28360b1e17da0df56cf830208f864c29ef59e10d40120638bdf59d866329ded6c8c64f1a22c7be3a481d8355c84c73c7a25150f734bda9e67c288e3ba1fb78b'

@@ -1,0 +1,29 @@
+message:
+  data_index: 2399903040878407602
+  malefactor_index: 6367433059187249259
+  malefactor_secret: '0x8942f0c078b3e4eb219b89a1a33bd52fd940ab5eafbe91c85cd1ebeeda0130eac59db2fc444157b31503b9c68808971cfcbbfe4e9ea8624f46e1bab30b14889477a143509f432c18518fcc5b8edfcf9f9476e3c96620024da0db85eb87f944c6'
+  whistleblower_index: 853658849453420642
+  shard_transition:
+    start_slot: 8168231875360360915
+    shard_block_lengths: [11275803683310182648, 4890263934913545135, 3214406418007168596,
+      7007165620141004813, 1905413063478144443, 662991643063381523, 0, 117993788077220989]
+    shard_data_roots: ['0x90768c604f0c23d26f19ecc64eb13740a1b2a6548ddf943216cdc7e71b67e1ca',
+      '0x7d42f05cc3a8dc86b3c9f2180c08101b641bc7d1c9bd1cf4cf279c30d85cf3cd', '0x299578b3815937d9b74e90255a25add7c4eb4cc7a8870033165ed015d5ad2e61',
+      '0x8920fd6052290c25991409ba99372d3cd6b2d0b894d1e951dcbab0998152f563']
+    shard_states:
+    - {slot: 17824317783328964857, gasprice: 1669906916599840328, latest_block_root: '0xf2d3b6345eecbeca19fa7563d30f4ed498a5b710d056ef7d0a15a8132a9e8854'}
+    proposer_signature_aggregate: '0x7c164706b6bcb48b41ae424bd635a95c0142cff9b3f591a50d8ac6a981e7a6619c564b8cab606ed937547e09bb05a21840518fc0ea03d509a7dfbbf3477046cf79dbe2472578d7bd91d6000da95706648e45349de07353301a8ec6d2d610f32f'
+  attestation:
+    aggregation_bits: '0x2a05'
+    data:
+      slot: 18446744073709551615
+      index: 2403103536272434296
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 5144733943917047492, root: '0xe58438dccafbbe2b35bbd05f13e452f6a8aa767228b6ee794745ad32a1d99da6'}
+      target: {epoch: 0, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      shard: 18446744073709551615
+      shard_head_root: '0x360c5e80061ebd14ee86e5376497c529a08e21aa019c7e3c702764f26cac35dd'
+      shard_transition_root: '0x93309aa0cfdf42a90b242eeb8156779f3c77237f3e30fc5419d3ea220e63c9e3'
+    signature: '0x2ecf2f4472c6c57b90859a8019010905205fd7d4e5840dd14cd70b8ef34bf76b89c1ebf88a3aa0179c96153826727f1f560215b8a568a47c227abd456605c4d223d8550a8a200993f5ea2f64ecb632592daf03c2c347ca7fe6d5992b1128c134'
+  data: '0x60'
+signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

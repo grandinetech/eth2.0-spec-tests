@@ -1,0 +1,31 @@
+message:
+  data_index: 0
+  malefactor_index: 0
+  malefactor_secret: '0x815ec4a3ffa55e88d55613259c2bb44dcabb01ab70d63b0df00dd64c289b79ff9796a4ba7943732674d5277f2428b83d991226d5d228ac66cfafcad1d18dde3964d7d684d06d5ca6fddd8c1bd013170d144144f9c1ae2aeefbf0a333cbf863a3'
+  whistleblower_index: 13510586428255409358
+  shard_transition:
+    start_slot: 5865469204637567829
+    shard_block_lengths: [4076854051378421692]
+    shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0x9f67fd35cd378c9b08fb4391e4ef94a95c780d823dcb2f216e9f23db083170ff',
+      '0xf9d3efd08c062c6b67fb3e003aa78135e7ca3db80964642cedb8ac1123068fdb', '0xa55aae9d48ea9eda7f5be87cc3276151c20108bb709f3631da292419bcaacabe',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0x983e88c03520d539526e83a893aa597fb778bcb7e1cb4581c0ebe710e2384f26',
+      '0x2f7372e5d605161efea68fb761ba4f87af0b2f84afd1e8883eeddc3a2ae47e9e', '0x0000000000000000000000000000000000000000000000000000000000000000',
+      '0xac20a302450e3438af95922e3e927e59cc7e9dbe801825042053877eb15b1ff1']
+    shard_states:
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xcc1a63d7e6f34e0bbc501f74462132927381b9f677e64f7d648c3730db99c5a4'}
+    proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  attestation:
+    aggregation_bits: '0x01'
+    data:
+      slot: 6298983569508549632
+      index: 11453555060831881229
+      beacon_block_root: '0x37e2c439b1c9073f8d02265ac5c004589bdebaa0e041b60d8155554a5da1db83'
+      source: {epoch: 18446744073709551615, root: '0x0958aeb93e37ebe71fd58ee31c447bbfb8b4e25592bd66ac335faaafde1d8ad1'}
+      target: {epoch: 18446744073709551615, root: '0xf88ba0351920a1725f889ecbf78771421c2d1e3209844605f26b8e8a56aee369'}
+      shard: 0
+      shard_head_root: '0x64581da0d50a947a11124d883e970ec114dd75e0df11e9b903135183a1d26696'
+      shard_transition_root: '0xcf2b443a26c67649beff91dd8083e6efd1252051c6eec66537abf3670a211088'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  data: '0x00'
+signature: '0xbde60b9810d23407b9a094c66e1c799d46912c1dbd1ad923b06d75d9bae02a2ca19745d19bc6caa818c387a0845e825e918e1ecdb3ed8ddb063703669cba68a59796ba7e04a61d083af8652c95b7298708289ac4455da2933f8eafc3a55e37f5'

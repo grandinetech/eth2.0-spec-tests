@@ -1,0 +1,16 @@
+message:
+  aggregator_index: 14100296897284443819
+  aggregate:
+    aggregation_bits: '0x02'
+    data:
+      slot: 5065365962725421348
+      index: 18446744073709551615
+      beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      source: {epoch: 11508808377595871709, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+      target: {epoch: 7444819941654935195, root: '0x52d6b0f19e44531b7d50715b82cd2333fb0eeba8bbe38f18733c0e57b943916e'}
+      shard: 11941785713639985430
+      shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xd71f0cd30039bb85f050cd1c4e94257c5edbd8d55f3466428b6c6e97c1fd3a8b22fc22753773d88bd6759ab222b0f825b3ef4b4aa9649e5e6990a712d819d2755be6c98798098852498a51e4ebd2d3dd10977630415d21d94f0c7d79aeaaf1e7'
+  selection_proof: '0xc39ac5e34c592e75df5dd16bc027c6b1618da3358b4b2aee8c395b2b0e2e063bacbb33a194c69c5df2fd590d364f6a8bc0becf9d4e31e589a199ff2527c22b6b2fe4d193a92a9397ec7651e73f545514bd092c996e4de041b4909f989dda0edd'
+signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'

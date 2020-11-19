@@ -1,0 +1,16 @@
+slot: 17258095227749617536
+index: 4736193731478306550
+beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+source: {epoch: 5301491615814343391, root: '0x5a578775ea7d04bc79a7cf6aca0d30d2ad403ca605d26def79f8220c2696297b'}
+target: {epoch: 14131642627955353993, root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+shard_transition:
+  start_slot: 9906158357669938224
+  shard_block_lengths: [8198790498475975871, 18446744073709551615, 0, 0, 10527998607696542475,
+    7056800874489622144]
+  shard_data_roots: ['0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+    '0x3ef9b469af4df91649dbaac55a6588915a01e6111814f1aaa45918fda7863801', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+    '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0x2d9130c95a12a8faa41d01293756986849e077a38fc45475e12b5bb61795b873',
+    '0x37ea8220cc0c01ec36b29a1dbcf74e190187b352ead7f6785e53f00360dc26b1', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+  shard_states: []
+  proposer_signature_aggregate: '0x38df5d1846cbb8602884666f91e9a2d6cd088964f6559dd8635f8958318943b3634655d601b17e15ea0605ad067dd6ca98d5ec3dbb36e126cc2023d311cdf6209a23a1800a2ba4007ce72fc6799eee6b2a4285e3a3403a1142bbeaad3f6c6fb0'

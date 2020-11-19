@@ -1,0 +1,26 @@
+responder_index: 15368780750249775002
+shard_transition:
+  start_slot: 0
+  shard_block_lengths: [7412243468359569488]
+  shard_data_roots: []
+  shard_states:
+  - {slot: 11352027767149926640, gasprice: 9547995466337710955, latest_block_root: '0xa375760cd9b8ff0d76342e09b5b511e5679d744d24ada3f7ebb4b468878b08a9'}
+  - {slot: 3818829901364367799, gasprice: 3611245811522347015, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  - {slot: 9280884985822906461, gasprice: 18446744073709551615, latest_block_root: '0x2f7525603b53c2f0d2315911aa12f9d4aba10997e8523e56a3d03d2018b257d0'}
+  - {slot: 0, gasprice: 18446744073709551615, latest_block_root: '0x7fabf1086b8d092ae078dd9f18892e65b4f0c99ca9a45d955985cfab639d39d5'}
+  - {slot: 18446744073709551615, gasprice: 10497801223382542295, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  proposer_signature_aggregate: '0x6c84e1ce3fc01f1b42dcc311647f4901636b5b7ab511e597757b479ce32daf0e58c85216c79677f2b127b811e4cb2489577862e92f86ca5a962f89e315b9773c0a7a872d5df541e76393aeb5ad6dc64fdc3d2b508b9ee3ffba4a3fd36fad3f3a'
+attestation:
+  aggregation_bits: '0x9b'
+  data:
+    slot: 18446744073709551615
+    index: 13582102642608495686
+    beacon_block_root: '0x94c29c96469eed797567ac45537e8af7d34ade2e04e45a10b445a4539d6be0cc'
+    source: {epoch: 4911602067713394998, root: '0x007f91e7c752206e9306d13c4711005c5735af8e32e3190de5f92bbdbfa47993'}
+    target: {epoch: 557799545200885602, root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+    shard: 969725622972392742
+    shard_head_root: '0x765b83696f911b5df67317498110ed64608d41fd5b714f9eb7a810df66610df0'
+    shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  signature: '0x66135f80c71afdf256a7faf4b550d718c66fc5b3e260575a6302c7a36039eafc475ec5585ca84a21bfdd5aa9b9343b1dbabc0e38a0ca5a2fe64b66f0a05b3eec6adb120eeef8296735ccc4d1b8f4f8ba5f22e15e39e7afda397061da34a3175a'
+data_index: 5706925154264411975
+chunk_index: 12721188620536865909

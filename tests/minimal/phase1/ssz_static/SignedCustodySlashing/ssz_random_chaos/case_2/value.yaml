@@ -1,0 +1,32 @@
+message:
+  data_index: 0
+  malefactor_index: 18446744073709551615
+  malefactor_secret: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  whistleblower_index: 0
+  shard_transition:
+    start_slot: 8496517710342213645
+    shard_block_lengths: [0, 12263544499787557554, 8469118459739925928, 10208959220367940489,
+      13834050475745123379, 0, 1312323747251297528]
+    shard_data_roots: ['0x96cebfbd490261f0feee105cc8daeecc27e376c16a678918ffd71caf49a5f88b',
+      '0x873d4dd2306cfb36fb753b36be19fb1400a2e22865c6fbdc7bb29a1be42b6746', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0x843c36adcda56bef485221b346693a7b09fd7aeee94b7a33373674eb7b0dfc6d', '0x8274b9738363b93e4bcd8747e18de9fa2f53a87e7963f24bd8dd891b76e3bbb9',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0x0000000000000000000000000000000000000000000000000000000000000000']
+    shard_states:
+    - {slot: 11943107097200624116, gasprice: 8064049245975961698, latest_block_root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+    proposer_signature_aggregate: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+  attestation:
+    aggregation_bits: '0x02'
+    data:
+      slot: 14791798380955902970
+      index: 17818325815879528026
+      beacon_block_root: '0x8ffbef6c446c61a1d649b185ac2c746ab6d983d098fd7cbbcc5a1fccb74492a3'
+      source: {epoch: 2033970461794657472, root: '0x0627d29cde3bb782f8067ba40a1b3f45a7aa9a28673ea806aeb29bc9a5d0da78'}
+      target: {epoch: 18446744073709551615, root: '0x2209b2b0e37ddbf7ab998527dfbbd750988f8b33cb941f1ac4a162ad1a02c43a'}
+      shard: 17712041168663827871
+      shard_head_root: '0x25d67015053d2f1b1b8c466283f3a5d8ea13e1bf76bffcb285da24e2134c46c0'
+      shard_transition_root: '0x51038c04a714cf4af80e222a89190729efab3198e07480179e645168793dcd3c'
+    signature: '0x3d8060c78ba726842174d734d627e4e70fa896f1cf8349ae21b5199cecffc28f1b5fcf7a5ab49b49093f84432d7f22e67db6abcb9da7c57940a2b8f22d7e5265e735c375bfc71b6f096a8b290f95480d2cb065bb8558f2a483643c5255a81772'
+  data: 0x
+signature: '0xfaa767638f583518c6bcb7b5234fbfb26bedc60d20f709485ccdafdb6cb07b5989454c0b6af3b66bbbec740d701b797041ff3984244e7d46efb7ae427c3a48ffcfb34e4afca16b27ae9858049f0c633928d9e0c1cfc7b5ebad1982faa256d660'

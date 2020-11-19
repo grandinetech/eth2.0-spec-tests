@@ -1,0 +1,13 @@
+start_slot: 6199740505674107214
+shard_block_lengths: [12810606117403043753, 0, 0, 18446744073709551615, 16867437541731874140,
+  2040714934228423862, 3198363075101229111, 14184410806910029177, 466915004892307211,
+  1170744212637599128]
+shard_data_roots: ['0x0b9c045403a0cf60d4218f3b86851c3456ef164de5dad7982020502c5444ea45',
+  '0xd17b3317ebb3100629dd44afb0bc3a7069fbe9e0f97bf1c986cf515cc71d99e3', '0x1653db4889c86db754233d4e2f01e64357c029b6589f38a4690c8553eea0b574',
+  '0x92a099d05bc7354d35c8a5192536fa65239e09fb46c00780e86769e74856e188', '0x0ba00a09974dd0a0c032f897f6d45f91092192cc7bd6d752e48ad94cf76b9d86',
+  '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0x50fd4d2d94a70e42c3b9af9437dba0ba9b30ed35b4a57acec7cfcbd42d701f5f']
+shard_states:
+- {slot: 0, gasprice: 18446744073709551615, latest_block_root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+- {slot: 18446744073709551615, gasprice: 0, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+- {slot: 0, gasprice: 14789120478974013281, latest_block_root: '0xa96fddddb3e03d532d7c77c3d8cc7422986a50c7abd99cccfc4a266ac5f9a807'}
+proposer_signature_aggregate: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

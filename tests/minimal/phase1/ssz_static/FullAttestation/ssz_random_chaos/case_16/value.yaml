@@ -1,0 +1,28 @@
+aggregation_bits: '0x13'
+data:
+  slot: 18446744073709551615
+  index: 10863723209308295757
+  beacon_block_root: '0x7d51eff95dddfed44a68b1a20b7f24fc7a3708c3ff2d49474144563ae9ccd23b'
+  source: {epoch: 0, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  target: {epoch: 0, root: '0x1113467a9293db97622b5dac9ce5352187055f6d6aec4d38f9c626df5cfda564'}
+  shard_head_root: '0xef2645ff6f69e36308b0ac033f870aa20dc6eaf148780f3890b10fa1f97a885d'
+  shard_transition:
+    start_slot: 0
+    shard_block_lengths: [7163349836416869854]
+    shard_data_roots: ['0x7eba3ce7f96f06b050ddae3453316aa60d7cbde3a1469aee79903e6e81e0de49',
+      '0x35e1f3823a5fe0531e7cc5ce7ee4545ce5994244731fd015731e2320d47f2fa5', '0x0ed23cbe7cb67a9e29d0b68364681450b5d4c3aa8713669afbf12ef4d15130a2',
+      '0xa2dac63c6179988c33b6a24874708700adc6b302f9c32c7f8dba7e472fec4f15', '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff',
+      '0x03d874c5f50949413f413a42305beab790eacfa090289424fda1ea28aa7d3446', '0x7c05da45cd459e90bc70aec7cf9fc15178239c6b9f0020828ba999dadeabeb58',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff', '0x1795131ef4f4a54726087669b10cce38ade14d215593e6d8f615da8f25a8c950',
+      '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff']
+    shard_states:
+    - {slot: 18446744073709551615, gasprice: 3449229577297610346, latest_block_root: '0x53ef77e64182b8a17d6b0913bbad4db2d1e902acc0b990fc3f6be65aab0bf3ea'}
+    - {slot: 0, gasprice: 2261330124545489019, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 16714847756425968301, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 15847320996461874251, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0x634c632552e7856dfa220f760ab764939c2a449b9f686b16ad69135642ea18fc'}
+    - {slot: 0, gasprice: 18446744073709551615, latest_block_root: '0xeac099df9e4da584386c36905e4b47af5a6e9a26ec601e2ee8c56f2f6e35ba0e'}
+    - {slot: 1192260217298352840, gasprice: 18446744073709551615, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0x0c4ad888bdf4609edec5ba00d9f054f575fc2610f676cb48574696b9f3767fae'}
+    proposer_signature_aggregate: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'

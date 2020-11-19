@@ -1,0 +1,25 @@
+aggregation_bits: '0x04'
+data:
+  slot: 9810892769126133481
+  index: 11195822714071113470
+  beacon_block_root: '0xbbdecba37dbe55b56ff8446f4a297baa7095f939b068537b1f183b0aec230579'
+  source: {epoch: 4304148634038327460, root: '0x5fdb6bf195ca5eb03719e909d02e67350211ce065223566bd2be496814e76c59'}
+  target: {epoch: 10157393115085068033, root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+  shard_head_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  shard_transition:
+    start_slot: 7572372314220192511
+    shard_block_lengths: []
+    shard_data_roots: ['0x714c873e26d37d12e9e19ef06e70cb1c264a75a854dea811e95bcbea5e9375a1']
+    shard_states:
+    - {slot: 3672671127975096034, gasprice: 7426162371446530401, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 13619481380908841093, gasprice: 0, latest_block_root: '0xc8d8c9f7f8be82557642de39f15849a607e67d5eb825f2b6bc0a6e18e0b1d141'}
+    - {slot: 148052993738618060, gasprice: 5398970196565517653, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 8353984744454127950, gasprice: 9189925765116845048, latest_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'}
+    - {slot: 18446744073709551615, gasprice: 18446744073709551615, latest_block_root: '0xa14f12a458e2e5967b782eb49a39eed83bb95f22e2bfd879b521b70afb2e32c9'}
+    - {slot: 10440841449158306865, gasprice: 759393675265017103, latest_block_root: '0x424d36ce48c25726e37de8ce99df830f182040f6098697ffd99474df1a313369'}
+    - {slot: 0, gasprice: 97555547043990192, latest_block_root: '0x5e8735f889de71719d70f1f22d8c4f4a0a89dcedb24224b74097be395c62dc4b'}
+    - {slot: 1773116894965479339, gasprice: 18446744073709551615, latest_block_root: '0x092ed40d747b33e9d465ea045f338250ff8d53ae8cbcd69c4cd803dc943436c1'}
+    - {slot: 0, gasprice: 8687690755833847614, latest_block_root: '0x2ebf2e4b19e32dbab9b11980600327bfc71d1a11cf822d1d35b2ed3782f3cfe3'}
+    - {slot: 18446744073709551615, gasprice: 0, latest_block_root: '0xfecc2d7110d945dacd8f2ec258a24bdb285a30ef31d2cff9af6a80f7c84aeaa0'}
+    proposer_signature_aggregate: '0x1635e6a7240f28bdf8c8fd6a6e93713b3f14b51e215810e91f731e94d35948461d87bf49fdf8e91e53dff266c123b4696fddd8c0a8095bccfef25f61755f7e31949ab397f5fc64d0ffa361f4cd8a032db4b1d2053d10fcae19fa4015d47b1385'
+signature: '0xdab1a7e54a229009cf064e134e1fc021aef8e980ef685fadfc8625375a1a3ac1c9babbc8c439b9bc5ff21e83d1c31b0a3ebae3099e9c486f8403909158b52309da07bc91390319fd7c5025ede445a48b2bfe9058714101cb1cfeb9207f9ae0ea'

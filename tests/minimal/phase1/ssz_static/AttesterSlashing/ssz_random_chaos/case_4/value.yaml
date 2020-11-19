@@ -1,0 +1,24 @@
+attestation_1:
+  attesting_indices: []
+  data:
+    slot: 14832417688253274208
+    index: 18294451110163204512
+    beacon_block_root: '0xd3ed8ce472b1423c825f0ce4d2da0bd50f5abb38fac57ef44bedfa4ce7c3f6b2'
+    source: {epoch: 18446744073709551615, root: '0x7fb1f3e669f4c428106c600aee56e488bd679be9e3d5885f6ebfe005338d5453'}
+    target: {epoch: 18258976324782276275, root: '0x67d33ae236f4316911fef99d49fdd7c11c376ce9d351be0d04702cba1a2d98cd'}
+    shard: 18235570392149140295
+    shard_head_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    shard_transition_root: '0x5061098f2d3a64307374cbf314790701ac20ff47f11698dd61d9b99827038ba1'
+  signature: '0x9d32a6917562e8f685a83abaf990ec561b7a0ea876ed2625f88ad74d4079741dfa04dd74f3160e9257b1fd5dfd9b4bde96f4718410d1ab98c4da0877ae1cd606994a2a93de41a44640f118aa726881b8dc92f45dc942965d98e6cf7a125ab4f4'
+attestation_2:
+  attesting_indices: [15702983356738604672, 0]
+  data:
+    slot: 10371454000325589711
+    index: 4201632104095971937
+    beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    source: {epoch: 10265427065132261507, root: '0x809d802455870a7e019365bdd724ada8ced2f6aceae4b9d0e7e8f91ee27f9aa0'}
+    target: {epoch: 0, root: '0x0000000000000000000000000000000000000000000000000000000000000000'}
+    shard: 0
+    shard_head_root: '0xc4a51289bfe1845679d272878495e5d750c46480300a43727a2762501d27717f'
+    shard_transition_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  signature: '0x6f87a58ffb376ae7aa9852b59078dcdf0739ca5ca91ff3feeb19947ac528e8584a6a65d4d25993a1756c5f02fd44a5ac018ba22f333c13fa2c9894dd5cf38d37b916de915b87e2d4b9f6dc00e70e30095c16b53efbc85762312d4ca48f208e81'

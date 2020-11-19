@@ -1,0 +1,8 @@
+slot: 4334543718262491757
+index: 18446744073709551615
+beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+source: {epoch: 5145272510395371157, root: '0x03f61a652a597da1cc9afaf218e2828aa4f033dea5d03fd1e5794734f0632234'}
+target: {epoch: 2499135615515439936, root: '0x0d087edac831ab262d48c742b1bee3e4a501100ce329b78738db33ad1c814819'}
+shard: 0
+shard_head_root: '0x04d55062e30ac1a92da6c38e01d195274da0b7c66e6223e16ed39e86767a8b1c'
+shard_transition_root: '0xb71bf9c57fd6ba4f97df48989df2e893fa3be76ca3b11df44296167a8294e78d'

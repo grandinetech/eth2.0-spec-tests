@@ -1,0 +1,62 @@
+slot: 12743118740359703584
+proposer_index: 987639853478133734
+parent_root: '0x0772f40060a999bf373f67b2369c55d83b04c213c4a5b08ce633911e30d88691'
+state_root: '0x39497d91472713fc32209d0d3777a4b628608a44b89e0600edb0ebed5c23778f'
+body:
+  randao_reveal: '0x332b8b3f57efdf3df72e5ad276ac8f5d7cb3f6f609abd3d5f0b6a1bcecfcdc9836930ff6dd66798e5081f14f924a10f2ef539a8e1e64ba60fbf53d51207519712888cbd03ddb3827ba0b7f7b1c201906f4de5d326a26d0fb3d588fd2e242da8a'
+  eth1_data: {deposit_root: '0x7fa263cd680b5e4e93e3f3178c02574c4ad285b21b0622820232ebc2c4f1152e',
+    deposit_count: 3093492715810420422, block_hash: '0xb0be80aa1228ff86aef5c7afbc53297cb2e47aa88a69fca02535ac4e293de48c'}
+  graffiti: '0x3da0123fc8f8ee2cd25c337f65305b8e60aa107f7bd9528b50dc307f52d1fd04'
+  proposer_slashings: []
+  attester_slashings: []
+  attestations: []
+  deposits: []
+  voluntary_exits: []
+  chunk_challenges: []
+  chunk_challenge_responses: []
+  custody_key_reveals: []
+  early_derived_secret_reveals: []
+  custody_slashings: []
+  shard_transitions:
+  - start_slot: 4311989378766804703
+    shard_block_lengths: []
+    shard_data_roots: []
+    shard_states: []
+    proposer_signature_aggregate: '0xe7de9c29b5a1cc4526945e36725020e1a5d35b31300e84a86b71c27166e0f97543b81b36e38b2176e473d0504b18799ccec3fafe6b3da256175d889fe4800612dcec4cb578f9ccbbcc455e57f42b7501cdf264a43673e1a27c4b1694cfb62105'
+  - start_slot: 16763035012622246846
+    shard_block_lengths: []
+    shard_data_roots: []
+    shard_states: []
+    proposer_signature_aggregate: '0xd4eca974d8adb65cf6d0f2797ab7cf89657848f3cfbe5532c8a05ed0e5e7251ad2e9f960f6e0179e92a380c627c1450bcd9de275397ba6b032aa2fb18a4d8d3982fc32a827a2d853410e419e5bfb8301c7645da6b923ebc33930249fbb5f6d56'
+  - start_slot: 17356859266508674814
+    shard_block_lengths: []
+    shard_data_roots: []
+    shard_states: []
+    proposer_signature_aggregate: '0xa440dd7e75c5ee2f74093614671f07f62639f50c8f7d4070a59b89dbdb4de34c06f8b2ad6e6fda038fbbcc56653e8dc29df60c9b3038609bc3057a1cedbef07104c617bbbb1e42b9979401be2119450cd5026a599660d21b60687b0b9dbae434'
+  - start_slot: 14820863733829271638
+    shard_block_lengths: []
+    shard_data_roots: []
+    shard_states: []
+    proposer_signature_aggregate: '0xf811133f5d76bde50a3e4136e7e639cb3f76b0e0132edff26f84c3c68d835179e63d2192d26a574380407ab8fe21e484c898040811017368fb202409701a3ed0ecf83d2593087d704685392c762e6cb476bf255db1155a82fc05927ef51a9b88'
+  - start_slot: 5168036098824985486
+    shard_block_lengths: []
+    shard_data_roots: []
+    shard_states: []
+    proposer_signature_aggregate: '0x77ed85d473a4b5cd3c01b8a1f72c9494e5a324c85276f25386fd7821e9ba51f57cd40f01db434fa4a3afa34ced351083db82d91f56e1896beb93ef8a95b7d3eae6fc42e206abf9e276bf77dd47a08cd8a89628c20bc4e2eaf7105f1015ff829a'
+  - start_slot: 3395100486754499460
+    shard_block_lengths: []
+    shard_data_roots: []
+    shard_states: []
+    proposer_signature_aggregate: '0xd01d5a0dd97f4ca6befc57175d0a94898047390e9647f0cdc4934e290d81cccd68be8dc2211311098c7342b398040d0c3450351718319b378cb5712b6275e6b3f9f3adecf757af093a5c0edaf9215738a7d1faebd5f424a1dcddb40b87954aae'
+  - start_slot: 6881113673323045829
+    shard_block_lengths: []
+    shard_data_roots: []
+    shard_states: []
+    proposer_signature_aggregate: '0x3b10767b6afc0e85f55913b062e75763da3af7ec082ab8e619fbae5ee35e52d4e66f34cc437b6d3faf0ad669532d22ad28ccd464f9ec7152e0a7cad8d183ed1a73f40d31edebd584d0d07d5532d596f68f87fdf0999f5272db9c7dfc6ecc2e7b'
+  - start_slot: 17216428322571405474
+    shard_block_lengths: []
+    shard_data_roots: []
+    shard_states: []
+    proposer_signature_aggregate: '0x7b37e58ead722b57508ea251754850f3211be07b5c8ee06cd205eecee40a0b34c60043e1bf7309dbcc507c9887fc4320589d71097b403a43200aa55b05e1253b650345948c693aca80c247f6a5321e12eebb86a6e3cf5a72b8affd7bb5888283'
+  light_client_bits: '0x0a5a71ec84de8db5cd5b290505c77ba4'
+  light_client_signature: '0x6e8570f5a893eb6a25e853ad04f5fb51fae2cb3782e1c14335c6fc2885e5b0f609e96361032f32cf4a82214c663b0cae85e5c555dc8d4dfba416d7e66bbdb574b0206e08f699becfe09590d01b73f205759e64f37d0d3921c588a9395d37c434'
