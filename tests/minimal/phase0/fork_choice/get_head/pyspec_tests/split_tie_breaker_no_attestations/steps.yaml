@@ -1,0 +1,19 @@
+- checks:
+    head: {slot: 0, root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'}
+- {tick: 6}
+- {block: block_0x6d1eaf7eb65314833add104957e0499088720a13c516b14c200b6fd8a44709d9}
+- checks:
+    time: 6
+    head: {slot: 1, root: '0x474fbdd13d0bba70b931040dfd7cbdd47c91822f0d6e5a25529300a0b9133842'}
+    justified_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+    finalized_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+    best_justified_checkpoint: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+- {block: block_0x927c28a75e958482c2c148a6ea5b4370a828cb64371064a0b3d468b08df5e178}
+- checks:
+    time: 6
+    head: {slot: 1, root: '0xc5a72396799f668267832372dc176f9ff63699eb5fcd089aded013e314b86994'}
+    justified_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+    finalized_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+    best_justified_checkpoint: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+- checks:
+    head: {slot: 1, root: '0xc5a72396799f668267832372dc176f9ff63699eb5fcd089aded013e314b86994'}

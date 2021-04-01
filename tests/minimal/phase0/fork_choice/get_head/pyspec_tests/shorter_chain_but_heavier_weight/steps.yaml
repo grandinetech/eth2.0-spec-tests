@@ -1,0 +1,37 @@
+- checks:
+    head: {slot: 0, root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'}
+- {tick: 6}
+- {block: block_0x6d1eaf7eb65314833add104957e0499088720a13c516b14c200b6fd8a44709d9}
+- checks:
+    time: 6
+    head: {slot: 1, root: '0x474fbdd13d0bba70b931040dfd7cbdd47c91822f0d6e5a25529300a0b9133842'}
+    justified_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+    finalized_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+    best_justified_checkpoint: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+- {tick: 12}
+- {block: block_0xd4d1fc38f2fd6b7e21dea4c39705cbc84d55fff3e97dc28d451028bf1ea2224a}
+- checks:
+    time: 12
+    head: {slot: 2, root: '0x2d40b6908fda45da72b488fcc7334001be8e32f511624f0f72a6a25a5a4cb947'}
+    justified_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+    finalized_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+    best_justified_checkpoint: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+- {tick: 18}
+- {block: block_0x29ff8fa3a9dde715d3125befe55f6dbfcdac05575c0b89174c7202867b1d722c}
+- checks:
+    time: 18
+    head: {slot: 3, root: '0x346913c2bc34ff6aad4c3dd77b4dbc33260d265bdff2a2368ec1d8dfda1ef592'}
+    justified_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+    finalized_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+    best_justified_checkpoint: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+- {block: block_0x927c28a75e958482c2c148a6ea5b4370a828cb64371064a0b3d468b08df5e178}
+- checks:
+    time: 18
+    head: {slot: 1, root: '0xc5a72396799f668267832372dc176f9ff63699eb5fcd089aded013e314b86994'}
+    justified_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+    finalized_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+    best_justified_checkpoint: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
+- {tick: 54}
+- {attestation: attestation_0x12b6035166b579d91831fb7740f2ecdea735cb0d2990d5856313a58ce4a2dcb9}
+- checks:
+    head: {slot: 1, root: '0xc5a72396799f668267832372dc176f9ff63699eb5fcd089aded013e314b86994'}

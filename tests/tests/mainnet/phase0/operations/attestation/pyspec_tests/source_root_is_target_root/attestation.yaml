@@ -1,0 +1,8 @@
+aggregation_bits: '0xff01'
+data:
+  slot: 0
+  index: 0
+  beacon_block_root: '0x1fcb8c722539b44be817428e8b37e4aa5012ab79f1d1880c1e92fee3ec304ba3'
+  source: {epoch: 0, root: '0x1fcb8c722539b44be817428e8b37e4aa5012ab79f1d1880c1e92fee3ec304ba3'}
+  target: {epoch: 0, root: '0x1fcb8c722539b44be817428e8b37e4aa5012ab79f1d1880c1e92fee3ec304ba3'}
+signature: '0x947fe6ab6fba83fc524e7a5ea282d1570022582d0ff1cb2ee3b0e0aaab5e1419b014d9170bcb2bc21f2abc9f05e43a9408bc37edbda0a3433f13f5ac888686cce611489460747e77ee6ad730a1fd77e7fcb2663c451f248b423ff62897b10643'
