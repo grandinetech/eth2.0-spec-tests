@@ -59,7 +59,7 @@
     best_justified_checkpoint: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
 - checks:
     head: {slot: 24, root: '0xff0565c092137a448f095479b1d3f73c307a3a59357aa983e9a9f1c1a21a3bca'}
-    justified_checkpoint_root: '0xad558a267ddc732b65a7f749fc5c28c59304742445ae23642156a116eb2b2d59'
+    justified_checkpoint_root: '0x267b47b08d6fa978d84e652e402d0c0784d6dcdff664f49680b83441c287e866'
 - {tick: 198}
 - {block: block_0xfaf9b482a21be8c4612331c53eb3d903431bb982b887efc0621c2661b1b40a1b}
 - checks:
